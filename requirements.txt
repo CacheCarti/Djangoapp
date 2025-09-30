@@ -1,0 +1,4 @@
+Django>=5.2.6,<6
+pytz
+sqlparse
+asgiref
