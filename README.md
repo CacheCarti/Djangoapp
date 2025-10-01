@@ -1,0 +1,1 @@
+AWS EC2was very very weird and I added polls through the shell in the EC2 environment. This change will not be reflected in the repository... Therefore here are a few screenshots of me adding them in EC2
