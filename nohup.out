@@ -1,0 +1,1633 @@
+Watching for file changes with StatReloader
+[01/Oct/2025 03:49:40] code 400, message Bad request version ('\x00\x02\x01\x00\x00-\x00\x02\x01\x01\x00')
+[01/Oct/2025 03:49:40] code 400, message Bad request version ('\x07YÓ!e\x970§]')
+[01/Oct/2025 03:49:40] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Oct/2025 03:49:40] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Oct/2025 03:49:40] code 400, message Bad request version ('\x16Fÿ\x13\x02$¡7\x00')
+[01/Oct/2025 03:49:40] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Oct/2025 03:49:40] code 400, message Bad request version ('mVÎ\x00')
+[01/Oct/2025 03:49:40] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[01/Oct/2025 03:49:41] "GET / HTTP/1.1" 404 2309
+[01/Oct/2025 03:49:44] "GET /polls/ HTTP/1.1" 200 308
+[01/Oct/2025 03:49:47] "GET /polls/ HTTP/1.1" 200 308
+[01/Oct/2025 03:49:48] "GET /admin/ HTTP/1.1" 200 10538
+[01/Oct/2025 03:49:49] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[01/Oct/2025 03:49:49] "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+[01/Oct/2025 03:49:49] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[01/Oct/2025 03:49:49] "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+[01/Oct/2025 03:49:49] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[01/Oct/2025 03:49:49] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[01/Oct/2025 03:49:49] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[01/Oct/2025 03:49:49] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[01/Oct/2025 03:49:49] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+[01/Oct/2025 03:49:49] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[01/Oct/2025 03:49:51] "GET /admin/polls/question/ HTTP/1.1" 200 10700
+[01/Oct/2025 03:49:51] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[01/Oct/2025 03:49:51] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[01/Oct/2025 03:49:51] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[01/Oct/2025 03:49:51] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[01/Oct/2025 03:49:51] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[01/Oct/2025 03:49:51] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[01/Oct/2025 03:49:51] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[01/Oct/2025 03:49:51] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[01/Oct/2025 03:49:51] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[01/Oct/2025 03:49:51] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[01/Oct/2025 03:49:51] "GET /static/admin/js/filters.js HTTP/1.1" 304 0
+[01/Oct/2025 03:49:51] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[01/Oct/2025 03:51:00] "GET /admin/polls/question/8/change/ HTTP/1.1" 200 10294
+[01/Oct/2025 03:51:00] "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+[01/Oct/2025 03:51:00] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[01/Oct/2025 03:51:00] "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[01/Oct/2025 03:51:00] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[01/Oct/2025 03:51:00] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[01/Oct/2025 03:51:00] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[01/Oct/2025 03:51:00] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[01/Oct/2025 03:51:00] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+[01/Oct/2025 03:51:00] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+[01/Oct/2025 03:51:03] "GET /admin/polls/question/ HTTP/1.1" 200 10700
+[01/Oct/2025 03:51:11] "GET /admin/ HTTP/1.1" 200 10538
+[01/Oct/2025 03:51:13] "GET /polls/ HTTP/1.1" 200 308
+[01/Oct/2025 03:51:15] "GET /polls/10/ HTTP/1.1" 200 682
+[01/Oct/2025 03:51:18] "POST /polls/10/vote/ HTTP/1.1" 302 0
+[01/Oct/2025 03:51:18] "GET /polls/10/results/ HTTP/1.1" 200 169
+[01/Oct/2025 03:51:24] "GET /polls/11/ HTTP/1.1" 200 691
+[01/Oct/2025 03:51:27] "POST /polls/11/vote/ HTTP/1.1" 302 0
+[01/Oct/2025 03:51:27] "GET /polls/11/results/ HTTP/1.1" 200 177
+[01/Oct/2025 04:11:51] "GET /polls/ HTTP/1.1" 200 308
+Not Found: /favicon.ico
+[01/Oct/2025 04:11:51] "GET /favicon.ico HTTP/1.1" 404 2360
+[01/Oct/2025 04:11:52] "GET /polls/10/ HTTP/1.1" 200 682
+[01/Oct/2025 04:11:57] "GET /polls/ HTTP/1.1" 200 308
+[01/Oct/2025 04:12:02] "GET /polls/ HTTP/1.1" 200 308
+[01/Oct/2025 04:12:42] "GET /polls/10/ HTTP/1.1" 200 682
+[01/Oct/2025 04:12:47] "GET /admin/ HTTP/1.1" 200 10538
+[01/Oct/2025 04:12:48] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[01/Oct/2025 04:12:48] "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+[01/Oct/2025 04:12:48] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[01/Oct/2025 04:12:48] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[01/Oct/2025 04:12:48] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[01/Oct/2025 04:12:48] "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+[01/Oct/2025 04:12:48] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[01/Oct/2025 04:12:48] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+[01/Oct/2025 04:12:48] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[01/Oct/2025 04:12:48] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[01/Oct/2025 04:14:00] "GET /admin/ HTTP/1.1" 200 10538
+[01/Oct/2025 04:45:53] "GET /admin/ HTTP/1.1" 200 10538
+Not Found: /favicon.ico
+[01/Oct/2025 04:45:53] "GET /favicon.ico HTTP/1.1" 404 2360
+[01/Oct/2025 04:45:59] "GET /polls/ HTTP/1.1" 200 308
+[01/Oct/2025 04:46:02] "GET /polls/8/ HTTP/1.1" 200 705
+[01/Oct/2025 04:46:04] "POST /polls/8/vote/ HTTP/1.1" 302 0
+[01/Oct/2025 04:46:04] "GET /polls/8/results/ HTTP/1.1" 200 192
+Not Found: /
+[01/Oct/2025 08:06:01] "GET / HTTP/1.1" 404 2304
+[01/Oct/2025 08:06:01,817] - Broken pipe from ('165.154.134.19', 37186)
+[01/Oct/2025 08:06:01] code 400, message Bad request syntax ('\x16\x03\x01\x00ò\x01\x00\x00î\x03\x03\x8e;Ô/\x02z\x8a§ßÎk\x88\x91£\x86ª1')
+[01/Oct/2025 08:06:01] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Oct/2025 08:06:02] code 400, message Bad HTTP/0.9 request type ('t3')
+[01/Oct/2025 08:06:02] "t3 12.1.2" 400 -
+Not Found: /
+[01/Oct/2025 09:00:14] "GET / HTTP/1.1" 404 2309
+[01/Oct/2025 09:41:47] code 400, message Bad request version ('À\x14À')
+[01/Oct/2025 09:41:47] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[01/Oct/2025 09:42:10] "GET / HTTP/1.1" 404 2309
+Not Found: /manage/account/login
+[01/Oct/2025 09:42:23] "GET /manage/account/login HTTP/1.1" 404 2387
+[01/Oct/2025 09:42:35] "GET /admin/index.html HTTP/1.1" 302 0
+Not Found: /index.html
+[01/Oct/2025 09:42:47] "GET /index.html HTTP/1.1" 404 2357
+Not Found: /+CSCOE+/logon.html
+[01/Oct/2025 09:42:59] "GET /+CSCOE+/logon.html HTTP/1.1" 404 2381
+Not Found: /cgi-bin/login.cgi
+[01/Oct/2025 09:43:11] "GET /cgi-bin/login.cgi HTTP/1.1" 404 2378
+Not Found: /login.htm
+[01/Oct/2025 09:43:24] "GET /login.htm HTTP/1.1" 404 2354
+Not Found: /login.html
+[01/Oct/2025 09:43:36] "GET /login.html HTTP/1.1" 404 2357
+Not Found: /login.jsp
+[01/Oct/2025 09:43:48] "GET /login.jsp HTTP/1.1" 404 2354
+Not Found: /login
+[01/Oct/2025 09:44:00] "GET /login HTTP/1.1" 404 2342
+Not Found: /doc/index.html
+[01/Oct/2025 09:44:13] "GET /doc/index.html HTTP/1.1" 404 2369
+Not Found: /remote/login
+[01/Oct/2025 09:44:25] "GET /remote/login HTTP/1.1" 404 2363
+[01/Oct/2025 09:44:37] "GET //admin/login.asp HTTP/1.1" 302 0
+Not Found: /web/
+[01/Oct/2025 09:44:49] "GET /web/ HTTP/1.1" 404 2339
+Not Found: /webpages/login.html
+[01/Oct/2025 09:45:03] "GET //webpages/login.html HTTP/1.1" 404 2384
+Not Found: /
+[01/Oct/2025 10:07:14] "GET / HTTP/1.1" 404 2309
+[01/Oct/2025 10:33:03] code 400, message Bad request version ('À\x14À')
+[01/Oct/2025 10:33:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Oct/2025 10:33:03] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[01/Oct/2025 10:33:03] "MGLNDD_3.141.194.75_8000" 400 -
+[01/Oct/2025 11:34:53,438] - Broken pipe from ('45.33.109.8', 49047)
+Not Found: /
+[01/Oct/2025 11:34:53] "GET / HTTP/1.1" 404 2304
+[01/Oct/2025 11:34:53,863] - Broken pipe from ('45.33.109.8', 49048)
+[01/Oct/2025 11:52:25] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[01/Oct/2025 11:52:25] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /c/
+[01/Oct/2025 16:17:14] "GET /c/ HTTP/1.1" 404 2333
+[01/Oct/2025 16:36:57] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03y)ÓP©ùÉU\x1a\x11cx\x99Ç\x86ñ¾\x91\x8f:|X0S3é¨[å\xad<Y')
+[01/Oct/2025 16:36:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Oct/2025 18:42:30] "GET /polls/8/ HTTP/1.1" 200 705
+Not Found: /favicon.ico
+[01/Oct/2025 18:42:30] "GET /favicon.ico HTTP/1.1" 404 2360
+[01/Oct/2025 18:42:33] "GET /polls/ HTTP/1.1" 200 308
+[01/Oct/2025 18:42:36] "GET /polls/ HTTP/1.1" 200 308
+[01/Oct/2025 18:42:39] "GET /admin/ HTTP/1.1" 200 10538
+[01/Oct/2025 18:42:39] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[01/Oct/2025 18:42:39] "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+[01/Oct/2025 18:42:39] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[01/Oct/2025 18:42:39] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[01/Oct/2025 18:42:39] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[01/Oct/2025 18:42:39] "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+[01/Oct/2025 18:42:39] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[01/Oct/2025 18:42:39] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+[01/Oct/2025 18:42:39] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[01/Oct/2025 18:42:39] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[01/Oct/2025 19:09:47] code 400, message Bad request version ('À\x14À')
+[01/Oct/2025 19:09:47] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Oct/2025 19:09:48] code 400, message Bad request version ('À\x14À')
+[01/Oct/2025 19:09:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[01/Oct/2025 19:09:48] "GET / HTTP/1.1" 404 2309
+Not Found: /login
+[01/Oct/2025 19:09:49] "GET /login HTTP/1.1" 404 2342
+Not Found: /
+[01/Oct/2025 19:49:30] "GET / HTTP/1.1" 404 2309
+[01/Oct/2025 20:23:09,844] - Broken pipe from ('199.45.155.77', 60142)
+Not Found: /
+[01/Oct/2025 20:23:13] "GET / HTTP/1.1" 404 2309
+[01/Oct/2025 20:23:13,755] - Broken pipe from ('199.45.155.77', 50806)
+Not Found: /
+[01/Oct/2025 20:23:18] "GET / HTTP/1.1" 404 2309
+[01/Oct/2025 20:23:21] code 505, message Invalid HTTP version (2.0)
+[01/Oct/2025 20:23:21] "PRI * HTTP/2.0" 505 -
+[01/Oct/2025 20:23:26] code 505, message Invalid HTTP version (2.0)
+[01/Oct/2025 20:23:26] "PRI * HTTP/2.0" 505 -
+Not Found: /.well-known/security.txt
+[01/Oct/2025 20:23:27] "GET /.well-known/security.txt HTTP/1.1" 404 2399
+Not Found: /
+[01/Oct/2025 20:47:51] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[01/Oct/2025 21:12:51] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[01/Oct/2025 21:14:16] "GET / HTTP/1.1" 404 2309
+[01/Oct/2025 21:15:15] code 400, message Bad request version ('À\x13À')
+[01/Oct/2025 21:15:15] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Oct/2025 21:15:15] code 400, message Bad request version ('À(À$À\x14À')
+[01/Oct/2025 21:15:15] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Oct/2025 21:15:38] code 400, message Bad request version ('À\x14À')
+[01/Oct/2025 21:15:38] You're accessing the development server over HTTPS, but it only supports HTTP.
+[01/Oct/2025 21:17:06] code 400, message Bad request syntax ('SSH-2.0-Go')
+[01/Oct/2025 21:17:06] "SSH-2.0-Go" 400 -
+[01/Oct/2025 21:18:25] code 400, message Bad request syntax ("\x16\x03\x01\x00{\x01\x00\x00w\x03\x03'z³6W")
+[01/Oct/2025 21:18:25] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 00:16:18] code 400, message Bad request syntax ('JDWP-Handshake')
+[02/Oct/2025 00:16:18] "JDWP-Handshake" 400 -
+Not Found: /
+[02/Oct/2025 02:09:03] "GET / HTTP/1.1" 404 2309
+[02/Oct/2025 02:09:03] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[02/Oct/2025 02:09:03] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[02/Oct/2025 02:48:04] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[02/Oct/2025 05:26:56] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[02/Oct/2025 08:05:05] "GET / HTTP/1.1" 404 2309
+[02/Oct/2025 08:05:05] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[02/Oct/2025 08:05:05] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[02/Oct/2025 09:17:07] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[02/Oct/2025 09:17:29] "GET /favicon.ico HTTP/1.1" 404 2360
+Not Found: /http:/api.ipify.org/
+[02/Oct/2025 09:17:33] "GET http://api.ipify.org/?format=json HTTP/1.1" 404 1873
+Not Found: /
+[02/Oct/2025 11:17:46] "GET / HTTP/1.1" 404 2309
+Not Found: /helpdesk/WebObjects/Helpdesk.woa
+[02/Oct/2025 11:17:59] "GET /helpdesk/WebObjects/Helpdesk.woa HTTP/1.1" 404 2423
+[02/Oct/2025 11:18:08] "GET /admin/ HTTP/1.1" 302 0
+Not Found: /
+[02/Oct/2025 11:18:08] "GET / HTTP/1.1" 404 2309
+Not Found: /api/session/properties
+[02/Oct/2025 11:18:08] "GET /api/session/properties HTTP/1.1" 404 2393
+Not Found: /
+[02/Oct/2025 11:18:28] "GET / HTTP/1.1" 404 2309
+Not Found: /status.php
+[02/Oct/2025 11:18:58] "GET /status.php HTTP/1.1" 404 2357
+Not Found: /
+[02/Oct/2025 15:58:01] "GET / HTTP/1.1" 404 2309
+[02/Oct/2025 16:26:32] code 400, message Bad request syntax ('Subscribe')
+[02/Oct/2025 16:26:32] "Subscribe" 400 -
+[02/Oct/2025 16:26:33] code 400, message Bad request version ('>')
+[02/Oct/2025 16:26:33] "< NTP/1.0 >" 400 -
+[02/Oct/2025 16:26:33] code 400, message Bad request version ('\x06\x00\x00\x00\x00\x00\x08\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x03\x00\x00\x00\x02\x00\x00\x00')
+[02/Oct/2025 16:26:33] "            $   service_mgr       scanner pamn                     " 400 -
+[02/Oct/2025 16:26:36] code 400, message Bad HTTP/0.9 request type ('<\x00K\x00\x00\x00')
+[02/Oct/2025 16:26:36] "< K             ÿÿÿÿ  " 400 -
+[02/Oct/2025 16:26:37] code 400, message Bad request syntax ('\x124\x00\x01')
+[02/Oct/2025 16:26:37] "4 " 400 -
+[02/Oct/2025 16:26:37] code 400, message Bad request syntax ('\x01\x00\x00\x00\x01\x00\x00\x00\x08\x08')
+[02/Oct/2025 16:26:37] "      " 400 -
+[02/Oct/2025 16:26:38] code 400, message Bad request version ('\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00ÿ\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00ä\x04\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x7f')
+[02/Oct/2025 16:26:38] "Â     ¶  SQLDB2RA              	     @   	     @        @        @   @     @        @        @        @        @         @                                         @        @                        @   	     @   	                                                                 @         @                             ÿ                     ä                   " 400 -
+[02/Oct/2025 16:26:38] code 400, message Bad request version ('\x00\x00\x00\x04')
+[02/Oct/2025 16:26:38] "    DB2DAS         9z                       " 400 -
+[02/Oct/2025 16:26:39] code 400, message Bad request version ('1\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[02/Oct/2025 16:26:39] "Client string for PARC version 1 Wire Encryption version 1                                                                                                                                                                                                     " 400 -
+[02/Oct/2025 16:26:39] code 400, message Bad request syntax ('#ST')
+[02/Oct/2025 16:26:39] "#ST" 400 -
+[02/Oct/2025 16:26:39] code 400, message Bad request syntax ('serverstatus')
+[02/Oct/2025 16:26:39] "serverstatus" 400 -
+[02/Oct/2025 16:26:42] code 400, message Bad request version ('\x00\x01')
+[02/Oct/2025 16:26:42] " .           	_services_dns-sd_udplocal   " 400 -
+[02/Oct/2025 16:26:44] code 400, message Bad HTTP/0.9 request type ('Âååå\x9e')
+[02/Oct/2025 16:26:44] "Âååå ×¤¦ÐÕÝÜÈÖÝ×ÕÈÑÖÈÝ¤Ñ¡È¤ÒÕ×Ý£¤¡Ý¦×Ýå" 400 -
+[02/Oct/2025 16:26:44] code 400, message Bad HTTP/0.9 request type ('TSH')
+[02/Oct/2025 16:26:44] "TSH    ì1           ¸  ID  " 400 -
+Not Found: /server-info
+[02/Oct/2025 16:26:44] "GET /server-info HTTP/1.1" 404 2391
+[02/Oct/2025 16:26:44] code 400, message Bad request version ('\x00\x00\x00\x03\x00\x05pamn\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00j\x00\x00\x00\x7f')
+[02/Oct/2025 16:26:44] " <   d e   = IEEEM  lsqlexec      9.280  RDS#R000000  sqli   3          pamn  pamn ol         =tlitcp      h     pamn            j   " 400 -
+[02/Oct/2025 16:26:45] code 400, message Bad request syntax ('\x002Ð\x01\x00\x01\x00,\x10A\x00\x04\x11^\x00\x04\x11m\x00\x04\x11Z\x00\x18\x14\x04\x14\x03\x00\x07$\x07\x00\x08$\x0f\x00\x08\x14@\x00\x08\x14t\x00\x08\x00\x04\x11G')
+[02/Oct/2025 16:26:45] " 2Ð  ,A ^ m Z  $ $ @ t  G" 400 -
+[02/Oct/2025 16:26:45] code 400, message Bad request syntax ('*1')
+[02/Oct/2025 16:26:45] "*1" 400 -
+[02/Oct/2025 16:26:46] code 400, message Bad HTTP/0.9 request type ('show')
+[02/Oct/2025 16:26:46] "show info" 400 -
+[02/Oct/2025 16:26:47] code 400, message Bad request syntax ('A\x00\x00\x00:0\x00\x00ÿÿÿÿÔ\x07\x00\x00\x00\x00\x00\x00test.$cmd\x00\x00\x00\x00\x00ÿÿÿÿ\x1b\x00\x00\x00\x01serverStatus\x00\x00\x00\x00\x00\x00\x00ð?\x00')
+[02/Oct/2025 16:26:47] "A   :0  ÿÿÿÿÔ      test.$cmd     ÿÿÿÿ   serverStatus       ð? " 400 -
+Not Found: /version
+[02/Oct/2025 16:26:51] "GET /version HTTP/1.1" 404 2379
+[02/Oct/2025 16:26:52] code 400, message Bad request syntax ('\x80\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x15ðÑb\x00\x00\x00\x00\x00\x00\x00\x00')
+[02/Oct/2025 16:26:52] "          ðÑb        " 400 -
+[02/Oct/2025 16:26:52] code 400, message Bad request syntax ('\x00\x00\x00\x01\x07')
+[02/Oct/2025 16:26:52] "   " 400 -
+[02/Oct/2025 16:26:53] code 400, message Bad request syntax ('\x00\x01n')
+[02/Oct/2025 16:26:53] " n" 400 -
+[02/Oct/2025 16:26:53] code 400, message Bad request syntax ('vp3')
+[02/Oct/2025 16:26:53] "vp3" 400 -
+[02/Oct/2025 16:26:53] code 400, message Bad request syntax ('\x94\x00ÍïÑa\x91\x03')
+[02/Oct/2025 16:26:53] " ÍïÑa" 400 -
+[02/Oct/2025 16:26:56] code 400, message Bad request syntax ('þ\x01')
+[02/Oct/2025 16:26:56] "þ" 400 -
+[02/Oct/2025 16:26:58] code 400, message Bad request syntax ('\x00\x00\x07\x00\x08\x00\x03\x00\x04\x00\x05\x00\x06')
+[02/Oct/2025 16:26:58] "       " 400 -
+[02/Oct/2025 16:26:59] code 400, message Bad request syntax ('ÿû\x18ÿú\x18\x00IBM-3279-4-Eÿðÿû\x19ÿý\x19ÿû\x00ÿý\x00')
+[02/Oct/2025 16:26:59] "ÿûÿú IBM-3279-4-Eÿðÿûÿýÿû ÿý " 400 -
+[02/Oct/2025 16:26:59] code 400, message Bad request syntax ('VERSION')
+[02/Oct/2025 16:26:59] "VERSION" 400 -
+[02/Oct/2025 16:27:00] code 400, message Bad request syntax ('CNXN\x00\x00\x00\x01\x00\x10\x00\x00\x07\x00\x00\x002\x02\x00\x00¼±§±host::\x00')
+[02/Oct/2025 16:27:00] "CNXN         2  ¼±§±host:: " 400 -
+[02/Oct/2025 16:27:11] code 400, message Bad request version ('>')
+[02/Oct/2025 16:27:11] "< NTP/1.2 >" 400 -
+[02/Oct/2025 16:27:13] code 400, message Bad request version ('>')
+[02/Oct/2025 16:27:13] "< NTP/1.1 >" 400 -
+[02/Oct/2025 16:27:15] code 400, message Bad HTTP/0.9 request type ('WWWOFFLE')
+[02/Oct/2025 16:27:15] "WWWOFFLE STATUS" 400 -
+Not Found: /
+[02/Oct/2025 16:27:16] "GET /?CAVIT HTTP/1.1" 404 2346
+[02/Oct/2025 16:27:18] code 400, message Bad request version ('ID')
+[02/Oct/2025 16:27:18] "%-12345X@PJL INFO ID" 400 -
+[02/Oct/2025 16:27:22] code 400, message Bad request syntax ('666')
+[02/Oct/2025 16:27:22] "666" 400 -
+[02/Oct/2025 16:27:24] code 400, message Bad request version ('?><methodCall><methodName>pamn.probe</methodName></methodCall>')
+[02/Oct/2025 16:27:24] "<?xml version="1.0" ?><methodCall><methodName>pamn.probe</methodName></methodCall>" 400 -
+Not Found: /api
+[02/Oct/2025 16:27:24] "GET /api HTTP/1.0" 404 2367
+[02/Oct/2025 16:27:24] code 400, message Bad HTTP/0.9 request type ('gkrellm')
+[02/Oct/2025 16:27:24] "gkrellm 0.0.0" 400 -
+Not Found: /hazelcast/rest/cluster
+[02/Oct/2025 16:27:24] "GET /hazelcast/rest/cluster HTTP/1.0" 404 2424
+[02/Oct/2025 16:27:25] code 400, message Bad request version ('GetClassName\x00\x00\x00\x02\x04\x00\x00\x00\x00\x01\x00')
+[02/Oct/2025 16:27:25] "          GetClassName        " 400 -
+[02/Oct/2025 16:34:06] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:12] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:17] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:17] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:20] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:20] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:22] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03PZ§\x9an\x14Í)gÁ\x94\x8b6é4\x05\x02¤å\x87ÑÔ¥k±\x90¶Ä<ê2m\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:22] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:22] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:22] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:22] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:23] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:23] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:26] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:26] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:26] code 400, message Bad request syntax ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03|°\x86\x03')
+[02/Oct/2025 16:34:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:26] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03zpÞ\x14÷O£Æ\x91N\x87"ûA\x00Yÿ\x08,®\x95\x14\x9bý\x9e6\x9a6á|\x80Ö\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:26] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:26] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:28] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:28] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:29] code 400, message Bad request version ("\x84Ê÷'\x10°/ÌBÿ%]Wpv\x1b±\x93Ù\x11\x97\x1bO")
+[02/Oct/2025 16:34:29] "`   oIÇlpäMM<ß©®ë o*R±Ö{nlUkç¢þ5[*§v§C[îÅvo`4GÅ#èuÉ\ý»´ó»×e`¿|õý"DÊ÷'°/ÌBÿ%]Wpv±ÙO" 400 -
+[02/Oct/2025 16:34:29] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:29] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:29] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03P\x8fÎÉ\x8bR\x12\x17v½uB8\x91¹dê+ÀØñ~Iª)ú4ë¡\x16zé')
+[02/Oct/2025 16:34:29] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:29] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:29] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:29] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x87c\xad?´x¤')
+[02/Oct/2025 16:34:29] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:29] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:29] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:31] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03\x1aZÔ/\x02Az8÷¿27p\x99\x18Õ\x9c^l»è\x13"ÁÈE8%³7\x8f·\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:31] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:31] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03¼æ\x0fDmº½H-ØÀi×å1×<¡ºÜ$ÏòÉíµo&\x92\x19¡\x9a\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:31] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:31] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:31] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:31] code 400, message Bad request syntax ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03vaGÉm')
+[02/Oct/2025 16:34:31] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:31] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:31] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:31] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:31] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:33] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03³£¦Í*ø$AØq£Jk\x06\x14Ëpû¸[O$\x88_öRçt*')
+[02/Oct/2025 16:34:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:33] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:33] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:33] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:33] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:33] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03âËsþÄ+')
+[02/Oct/2025 16:34:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:34] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:34] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:34] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:34] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:34] code 400, message Bad request syntax ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x036¾\x14\x89U¼\x8c`îgÚ/1#[¹\x87L')
+[02/Oct/2025 16:34:34] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:34] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:34] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:35] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:35] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:36] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03*L¤ÀbÎþõ\x02vöÒºÍXË]Å³C\x99iU\x83º"&\x10gf$\\\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:36] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:36] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:36] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:37] code 400, message Bad request syntax ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03Ø\x00(')
+[02/Oct/2025 16:34:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:37] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:37] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03P«\x00\x9d¿/')
+[02/Oct/2025 16:34:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:37] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03°Qd£^í#ßø¥$ãzr\x98_}Éç\x8dÊX\x02Õ!v\x7f\x80ö1\x00\xad\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:38] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03\x96Öoe\xad\x1a¯Á\x86|P4XÀq\x18X\x10Ý¥ÝL(¹Æpi)<\xadÆ^\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:38] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:38] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:38] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:38] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:38] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:38] code 400, message Bad request syntax ('TQ8zyt9Dz3')
+[02/Oct/2025 16:34:38] "TQ8zyt9Dz3" 400 -
+[02/Oct/2025 16:34:39] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:39] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:39] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:39] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:40] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:40] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:40] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:40] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:40] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:40] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:40] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:40] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:40] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:40] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:40] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03\x81\x93Á+f\x88*P#\x12;\x8fZ!´4dTíªá¦ç\x18y\x11Rë\x7f\x86ËW\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:40] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:41] code 400, message Bad request version ('újyDÌæ\x07\x86Ê\x02^åRjÌ6\x01Lr\x94')
+[02/Oct/2025 16:34:41] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:42] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:42] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:42] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:42] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03eÎ\x8fà±Ëú¯\x0ejs6Äð\x92\x8d÷°n·tëÕçÒ:Äø®\x7f®A\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:42] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:42] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:43] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:43] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:44] code 400, message Bad request syntax ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03li»x\x13Lý')
+[02/Oct/2025 16:34:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:44] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:44] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03*9¡=¿*\x11íùe\x0f\x01ÓÑ\x00\x08#«é')
+[02/Oct/2025 16:34:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:44] code 400, message Bad request syntax ('64\x00')
+[02/Oct/2025 16:34:44] "64 " 400 -
+[02/Oct/2025 16:34:44] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:44] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:44] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:44] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:44] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:45] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:45] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:45] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:45] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:46] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:46] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:46] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:46] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:46] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:46] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:47] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:47] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:47] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:47] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:47] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:47] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:47] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:47] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:48] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:49] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:49] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:49] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:49] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:50] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:50] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:50] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:50] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:50] code 400, message Bad request version ('&~\x02\x9eUKÁkþÔ£\x81Ý\x99úöÅ\x93\x8b\x86ð¼{\x17\x95£ãu<ôõw¼b<\x8bö:?X×m\x99r\x91På\x80¶\x7fÊ*\x8d\x04á12ô_pËãÛ\x88n^§7ìp¿ä\x9a.\x9fÄ¢\x91\x7fÏgÙÈ\x17^ÄjùýÇ\x84]Æè\x94"ÑÞÈ¸Ú`ÂÀæÝíó\x91\x92|\x95Ö\x08®')
+[02/Oct/2025 16:34:50] "   }b=J'Á×ÿ+iß»¥gkiÐkiNëiz(× [P¹$ToÿÊ^oØëubHL^é[ßq£SXÈ&~UKÁkþÔ£ÝúöÅð¼{£ãu<ôõw¼b<ö:?X×mrPå¶Ê*á12ô_pËãÛn^§7ìp¿ä.Ä¢ÏgÙÈ^ÄjùýÇ]Æè"ÑÞÈ¸Ú`ÂÀæÝíó|Ö®" 400 -
+[02/Oct/2025 16:34:50] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:50] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:50] code 400, message Bad request version ('³¡·l\x00iÕ<')
+[02/Oct/2025 16:34:50] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:51] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03\x15')
+[02/Oct/2025 16:34:51] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:51] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:51] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:52] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:52] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:52] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03u¬mÜ´ØP^ëpTbçã\x13\x0f"\x86\x81Cu\x87KÁ\x97Ã%nÿd\x87*\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:52] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:52] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:52] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:52] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:52] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:53] code 400, message Bad request version ('=')
+[02/Oct/2025 16:34:53] "        xcd  \\½CütÃLý¼ÝBKRK\°. fâ	ÿef¼b2x2ä10¤2ä0h01h2(0X01230ø yîéI@ºÈ÷ª-a(gÈg(bÈò¬< LeHgy$M«EVk@b$Í¤ ò=" 400 -
+[02/Oct/2025 16:34:53] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:53] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:53] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:53] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:54] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:54] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:54] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:54] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:55] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:55] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:55] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:55] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:55] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:55] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:56] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03\x04£\x15E¢ð÷\x8a\x1a&u¥]\x9fZèQÀ\x1a¨T³e\x10:4ÐâÚm7¤\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:56] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:56] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03½J=9ï´ä\x07§Æâ\x9d\x9a´«.ô\x049ý\x17¸6\x96ïåÄvó}¶b\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:56] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:56] code 400, message Bad request syntax ('GetRemoteShellCode_52\x00')
+[02/Oct/2025 16:34:56] "GetRemoteShellCode_52 " 400 -
+[02/Oct/2025 16:34:56] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:56] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:56] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:56] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:57] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:57] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:57] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:57] code 400, message Bad request version ('\x9e²\x01R\x86¯ê³{:é.v\x97ÎÑ1XONRA\x13C3\x02')
+[02/Oct/2025 16:34:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:57] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03xª]\x8eê\x132çì§\x15·òW4Ê´6_\x83\x90Mõê\x05¦/¸,a\x9dH\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:57] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:57] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:58] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:58] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:58] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03¢IvxÎENÁÎK¢Í¸âzª\x06<^»\x80y\x9bìí®ÌßÐ¡ò\x02\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:58] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:58] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03\x07Ø<Ê\xad.¨\x01R\x11\x15S\x9c\x98Î\x06È\xadÙÚíL¥æ\x08»õ\x84´G±Ö\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:58] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:58] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:59] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:59] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:59] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:59] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:59] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03=@«^Ð\x00ôH~L8èÏp\x93\x81\x06Åð\x00õÀ\x808\x98.¥y:Rò|\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:34:59] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:34:59] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:34:59] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:00] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03\x80×}~¤\x9cè~§"7ì9.M·áÜ!Këñ\x8f_\x8a\x05<ùßxË$\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:35:00] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:00] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03')
+[02/Oct/2025 16:35:00] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:00] code 400, message Bad request version ('\x8c')
+[02/Oct/2025 16:35:00] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:00] code 400, message Bad request version ('n\x18£')
+[02/Oct/2025 16:35:00] "   IIMBTIJIBN  {CaigÇU±ÞhFE	òkú oyv	öøÐuwó46÷÷Pç$xÁÌÀð·¾#G·Á7§6Zl¿Fíçî)¨Ã¯4'<»PÚÈÀÈD×ÀX×ÀDÁÐÀÊÀ½ n£" 400 -
+[02/Oct/2025 16:35:00] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:00] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:00] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03PÞ¿îÕ\x8dë÷30\x17ãF\x0f.\x04)\x9a\x9b£\x10îPzì<¤w2{£\x13\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:35:00] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:01] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:01] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:01] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:01] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:01] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:01] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:01] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03t=\x93ôÃ]3\x8cÛÚ8T')
+[02/Oct/2025 16:35:01] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:02] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:02] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /ymybisvimqjoknhmgryit/getocmskdmsm/
+[02/Oct/2025 16:35:02] "POST /ymybisvimqjoknhmgryit/getocmskdmsm/ HTTP/1.1" 404 2433
+[02/Oct/2025 16:35:02] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:02] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03_Ý\x06Ã\x16¥\x98£PËb\x0e¶N\x9e\x9928Dß\x8e¹2\x92Úª~ï1Mm)\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:35:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:02] code 400, message Bad request syntax ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x030j\x17\x16ð\x90&v&½')
+[02/Oct/2025 16:35:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:02] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /Tan.jpg
+[02/Oct/2025 16:35:02] "GET /Tan.jpg HTTP/1.1" 404 2348
+[02/Oct/2025 16:35:03] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:03] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:03] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:03] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03ÓhÃ¸xÎQî\x11¯¬ÙIF2,\x19\xadb¾ZÞ{X\x8e÷íS\x99Yzü\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:35:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:03] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03pg:^6E\x90F\x96ötµT£áÈ¡!\x18m¼kÅ\x82ùé\x84$\x0f\x89za\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:35:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:03] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:03] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:03] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:04] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:04] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:04] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x04[Ç')
+[02/Oct/2025 16:35:04] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:04] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:04] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:04] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:04] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:04] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x08bÁæ\x98N4\x99þì\x83')
+[02/Oct/2025 16:35:04] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:04] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03\x13\x96\\^ºj\x00L=ÿ¹@|ß\x01±')
+[02/Oct/2025 16:35:04] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:04] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:04] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:05] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:05] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:05] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03')
+[02/Oct/2025 16:35:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:05] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:05] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x81©\x0e\x90D-»õ\x17\x11û\x11x\x8c¨"´/t')
+[02/Oct/2025 16:35:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:05] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03ãÉýsë\x83\x89tu\x8dÍL\\\'ñí¬±Ö$û\x19{ÜËcÙ"N²aï\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:35:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:06] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:06] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:06] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /login
+[02/Oct/2025 16:35:06] "GET /login HTTP/1.1" 404 2342
+Not Found: /fsxlxhxzaf.png
+[02/Oct/2025 16:35:06] "GET /fsxlxhxzaf.png HTTP/1.1" 404 2369
+[02/Oct/2025 16:35:06] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:06] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[02/Oct/2025 16:35:06] "GET / HTTP/1.1" 404 2309
+[02/Oct/2025 16:35:07] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /1.txt
+[02/Oct/2025 16:35:07] "GET /1.txt HTTP/1.1" 404 2342
+[02/Oct/2025 16:35:07] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:07] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:07] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:07] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03ÿk\x18Ï')
+[02/Oct/2025 16:35:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:07] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:07] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:08] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:08] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:08] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:08] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03\x14\x9aQúK\x81\x14¬ý¹fOC^\x0e\x90\x96\x96ª¤"V\x12Ýy´&\x9f<k\x8bj\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:35:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:08] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:08] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:08] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:09] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:09] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:09] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:09] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:09] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:09] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:10] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:10] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:10] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:10] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:10] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03\x14×+\x10é\x91%à#Öì{}b¹úº\x9eæ\xadß\x06Îù\x00ø\x01¾Pj4¶\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:35:10] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:10,806] - Broken pipe from ('43.156.8.91', 50770)
+[02/Oct/2025 16:35:10] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:10] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:10] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:10] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:11] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:11] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:11] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:11] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:11] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:11] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:11] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:11] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:12] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:12] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:12] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /search/s.php
+[02/Oct/2025 16:35:13] "GET /search/s.php?i=1&id=APOX8NWOV42320 HTTP/1.1" 404 2389
+[02/Oct/2025 16:35:13] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ã\x01\x00\x00¿\x03\x03e[u¶\x8aEhÄ\x9f1µÝ\x93\x8eù\x9bbÇÎFÀ\x12o¹IÖÃ\x0ft¤8õ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:35:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:13] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:14] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:14] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:15] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:15] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:15] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:15] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:16] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:16] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:35:16] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 16:35:16] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:36:51,232] - Broken pipe from ('43.156.8.91', 56780)
+[02/Oct/2025 16:39:18] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x037®Øéí\x87\x88ìd_Ki0FÃ¦¦±-ÓÚ"øKÂj¯Ô3eúm\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[02/Oct/2025 16:39:18] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 16:39:18] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[02/Oct/2025 16:39:18] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[02/Oct/2025 17:08:38] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[02/Oct/2025 17:08:38] "GET /favicon.ico HTTP/1.1" 404 2360
+[02/Oct/2025 17:46:05] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 17:46:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 17:46:05] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 17:46:05] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[02/Oct/2025 17:46:05] "GET / HTTP/1.1" 404 2309
+Not Found: /login
+[02/Oct/2025 17:46:05] "GET /login HTTP/1.1" 404 2342
+Not Found: /
+[02/Oct/2025 19:33:28] "GET / HTTP/1.1" 404 2304
+Not Found: /favicon.ico
+[02/Oct/2025 19:33:28] "GET /favicon.ico HTTP/1.1" 404 2355
+Not Found: /
+[02/Oct/2025 21:03:39] "GET / HTTP/1.1" 404 2309
+[02/Oct/2025 21:03:40] code 505, message Invalid HTTP version (2.0)
+[02/Oct/2025 21:03:40] "PRI * HTTP/2.0" 505 -
+[02/Oct/2025 21:03:44] code 505, message Invalid HTTP version (2.0)
+[02/Oct/2025 21:03:44] "PRI * HTTP/2.0" 505 -
+Not Found: /robots.txt
+[02/Oct/2025 21:03:44] "GET /robots.txt HTTP/1.1" 404 2357
+[02/Oct/2025 21:19:37] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[02/Oct/2025 21:19:37] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[02/Oct/2025 22:16:03] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[02/Oct/2025 22:17:02] "GET / HTTP/1.1" 404 2309
+[02/Oct/2025 22:17:51] code 400, message Bad request version ('À\x14À')
+[02/Oct/2025 22:17:51] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[02/Oct/2025 23:11:10] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[02/Oct/2025 23:13:31] "GET / HTTP/1.1" 404 2309
+[02/Oct/2025 23:14:40] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03N0hëo<\x82¼\x7f×\x0f24\x9e~È\x90r.\x8f!<Þ3ö\x90\x13?\x1e')
+[02/Oct/2025 23:14:40] You're accessing the development server over HTTPS, but it only supports HTTP.
+[02/Oct/2025 23:15:47] code 400, message Bad request syntax ('SSH-2.0-Go')
+[02/Oct/2025 23:15:47] "SSH-2.0-Go" 400 -
+[02/Oct/2025 23:16:48] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ÑoÐ\x03\x8bõ®Äþû¬p4óe\x1b´RG\x98$Ý;©û')
+[02/Oct/2025 23:16:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[03/Oct/2025 00:36:23] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[03/Oct/2025 00:36:54] "GET /favicon.ico HTTP/1.1" 404 2360
+Not Found: /http:/api.ipify.org/
+[03/Oct/2025 00:36:59] "GET http://api.ipify.org/?format=json HTTP/1.1" 404 1873
+Not Found: /www.shadowserver.org:443
+[03/Oct/2025 00:37:12] "CONNECT www.shadowserver.org:443 HTTP/1.1" 404 1882
+Not Found: /
+[03/Oct/2025 01:27:35] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[03/Oct/2025 10:30:48] "GET / HTTP/1.1" 404 2309
+[03/Oct/2025 14:25:58] code 400, message Bad request version ('À\x14À')
+[03/Oct/2025 14:25:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+[03/Oct/2025 14:25:58] code 400, message Bad request version ('À\x14À')
+[03/Oct/2025 14:25:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[03/Oct/2025 14:25:59] "GET / HTTP/1.1" 404 2309
+Not Found: /login
+[03/Oct/2025 14:25:59] "GET /login HTTP/1.1" 404 2342
+Not Found: /
+[03/Oct/2025 14:35:19] "GET / HTTP/1.1" 404 2309
+[03/Oct/2025 14:35:19,725] - Broken pipe from ('199.45.155.72', 55792)
+Not Found: /
+[03/Oct/2025 14:35:25] "GET / HTTP/1.1" 404 2309
+[03/Oct/2025 14:35:29] code 505, message Invalid HTTP version (2.0)
+[03/Oct/2025 14:35:29] "PRI * HTTP/2.0" 505 -
+[03/Oct/2025 14:35:37] code 505, message Invalid HTTP version (2.0)
+[03/Oct/2025 14:35:37] "PRI * HTTP/2.0" 505 -
+Not Found: /security.txt
+[03/Oct/2025 14:35:41] "GET /security.txt HTTP/1.1" 404 2363
+Not Found: /
+[03/Oct/2025 17:40:29] "GET / HTTP/1.1" 404 2309
+[03/Oct/2025 17:40:29,334] - Broken pipe from ('8.211.51.146', 24660)
+Not Found: /
+[03/Oct/2025 17:41:42] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[03/Oct/2025 19:08:49] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[03/Oct/2025 22:24:26] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[03/Oct/2025 22:25:44] "GET / HTTP/1.1" 404 2309
+[03/Oct/2025 22:26:48] code 400, message Bad request version ('À\x14À')
+[03/Oct/2025 22:26:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+[03/Oct/2025 22:28:40] code 400, message Bad request syntax ('SSH-2.0-Go')
+[03/Oct/2025 22:28:40] "SSH-2.0-Go" 400 -
+[03/Oct/2025 22:30:24] code 400, message Bad request version ('À\x14À')
+[03/Oct/2025 22:30:24] You're accessing the development server over HTTPS, but it only supports HTTP.
+[03/Oct/2025 22:52:50] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03;½æ\x9f_\x071«\x8b\x04¯êÙT\xade-lE0EÔ\x12\x8cÜp\x05ÕuÞ¬\x8d\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[03/Oct/2025 22:52:50] You're accessing the development server over HTTPS, but it only supports HTTP.
+[03/Oct/2025 22:52:50] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[03/Oct/2025 22:52:50] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[03/Oct/2025 23:04:18] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[03/Oct/2025 23:05:03] "GET / HTTP/1.1" 404 2309
+[03/Oct/2025 23:06:14] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ÞV\x97pTË,JX\x94X\x9db|RJ\x14§')
+[03/Oct/2025 23:06:14] You're accessing the development server over HTTPS, but it only supports HTTP.
+[03/Oct/2025 23:07:47] code 400, message Bad request syntax ('SSH-2.0-Go')
+[03/Oct/2025 23:07:47] "SSH-2.0-Go" 400 -
+[03/Oct/2025 23:09:13] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03¦Ù6H«ï¶6p>NYü\x0f\x14¸Øü¥X\x9fY©\x0fc·¹Ð$\x99WN\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[03/Oct/2025 23:09:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+[04/Oct/2025 00:03:13] code 400, message Bad request version ('À#À¬À®À+À')
+[04/Oct/2025 00:03:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[04/Oct/2025 00:03:18] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[04/Oct/2025 00:37:31] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[04/Oct/2025 00:37:55] "GET /favicon.ico HTTP/1.1" 404 2360
+Not Found: /http:/api.ipify.org/
+[04/Oct/2025 00:37:59] "GET http://api.ipify.org/?format=json HTTP/1.1" 404 1873
+Not Found: /www.shadowserver.org:443
+[04/Oct/2025 00:38:02] "CONNECT www.shadowserver.org:443 HTTP/1.1" 404 1882
+[04/Oct/2025 02:41:26] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x03\x01¥\x01\x00\x01¡\x03\x03ÑÇ\x7f\x92Úßý\x03ö')
+[04/Oct/2025 02:41:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[04/Oct/2025 02:41:31] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[04/Oct/2025 02:56:19] "GET /favicon.ico HTTP/1.1" 404 2360
+[04/Oct/2025 04:40:24] code 400, message Bad request version ('!ÝÑ')
+[04/Oct/2025 04:40:24] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[04/Oct/2025 04:40:27] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[04/Oct/2025 04:52:37] "GET /favicon.ico HTTP/1.1" 404 2360
+[04/Oct/2025 07:26:33] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[04/Oct/2025 07:26:33] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[04/Oct/2025 07:47:06] "GET / HTTP/1.1" 404 2309
+[04/Oct/2025 10:30:41] code 400, message Bad request version ('À\x14À')
+[04/Oct/2025 10:30:41] You're accessing the development server over HTTPS, but it only supports HTTP.
+[04/Oct/2025 10:30:41] code 400, message Bad request version ('À\x14À')
+[04/Oct/2025 10:30:41] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[04/Oct/2025 10:30:42] "GET / HTTP/1.1" 404 2309
+Not Found: /login
+[04/Oct/2025 10:30:42] "GET /login HTTP/1.1" 404 2342
+[04/Oct/2025 11:05:03] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03')
+[04/Oct/2025 11:05:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[04/Oct/2025 12:45:08] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[04/Oct/2025 14:54:26] "GET / HTTP/1.1" 404 2309
+[04/Oct/2025 14:54:26] code 505, message Invalid HTTP version (2.0)
+[04/Oct/2025 14:54:26] "PRI * HTTP/2.0" 505 -
+[04/Oct/2025 14:54:40] code 505, message Invalid HTTP version (2.0)
+[04/Oct/2025 14:54:40] "PRI * HTTP/2.0" 505 -
+Not Found: /robots.txt
+[04/Oct/2025 14:54:41] "GET /robots.txt HTTP/1.1" 404 2357
+[04/Oct/2025 16:38:52] code 400, message Bad request syntax ('\x16\x03\x01\x05²\x01\x00\x05®\x03\x03\x94¹è')
+[04/Oct/2025 16:38:52] You're accessing the development server over HTTPS, but it only supports HTTP.
+[04/Oct/2025 16:38:52] code 400, message Bad request version ('À\x13À')
+[04/Oct/2025 16:38:52] You're accessing the development server over HTTPS, but it only supports HTTP.
+[04/Oct/2025 16:38:53] code 400, message Bad request version ('À\x13À')
+[04/Oct/2025 16:38:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+[04/Oct/2025 16:38:53] code 400, message Bad request version ('À\x13À')
+[04/Oct/2025 16:38:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+[04/Oct/2025 17:39:44] "GET /polls/ HTTP/1.1" 200 308
+Not Found: /favicon.ico
+[04/Oct/2025 17:39:44] "GET /favicon.ico HTTP/1.1" 404 2360
+[04/Oct/2025 17:39:45] "GET /polls/ HTTP/1.1" 200 308
+[04/Oct/2025 17:40:04] "GET /admin/ HTTP/1.1" 302 0
+[04/Oct/2025 17:40:04] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
+[04/Oct/2025 17:40:04] "GET /static/admin/css/base.css HTTP/1.1" 200 22120
+[04/Oct/2025 17:40:04] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+[04/Oct/2025 17:40:04] "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+[04/Oct/2025 17:40:04] "GET /static/admin/css/login.css HTTP/1.1" 200 951
+[04/Oct/2025 17:40:04] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[04/Oct/2025 17:40:05] "GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+[04/Oct/2025 17:40:05] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+[04/Oct/2025 17:40:35] "GET /polls/3/ HTTP/1.1" 200 694
+[04/Oct/2025 17:40:36] "POST /polls/3/vote/ HTTP/1.1" 302 0
+[04/Oct/2025 17:40:36] "GET /polls/3/results/ HTTP/1.1" 200 182
+[04/Oct/2025 17:40:37] "GET /polls/3/ HTTP/1.1" 200 694
+[04/Oct/2025 17:40:38] "POST /polls/3/vote/ HTTP/1.1" 302 0
+[04/Oct/2025 17:40:38] "GET /polls/3/results/ HTTP/1.1" 200 183
+[04/Oct/2025 17:40:39] "GET /polls/3/ HTTP/1.1" 200 694
+[04/Oct/2025 17:40:40] "POST /polls/3/vote/ HTTP/1.1" 302 0
+[04/Oct/2025 17:40:40] "GET /polls/3/results/ HTTP/1.1" 200 184
+[04/Oct/2025 17:40:41] "GET /polls/3/ HTTP/1.1" 200 694
+[04/Oct/2025 17:40:44] "GET /polls/ HTTP/1.1" 200 308
+[04/Oct/2025 17:40:45] "GET /polls/9/ HTTP/1.1" 200 697
+[04/Oct/2025 17:40:46] "POST /polls/9/vote/ HTTP/1.1" 302 0
+[04/Oct/2025 17:40:46] "GET /polls/9/results/ HTTP/1.1" 200 183
+[04/Oct/2025 17:40:48] "GET /polls/9/ HTTP/1.1" 200 697
+[04/Oct/2025 17:40:49] "POST /polls/9/vote/ HTTP/1.1" 302 0
+[04/Oct/2025 17:40:49] "GET /polls/9/results/ HTTP/1.1" 200 184
+[04/Oct/2025 17:40:50] "GET /polls/9/ HTTP/1.1" 200 697
+[04/Oct/2025 17:43:24] "GET /admin/ HTTP/1.1" 302 0
+[04/Oct/2025 17:43:24] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
+[04/Oct/2025 17:49:54] "GET /admin/ HTTP/1.1" 302 0
+[04/Oct/2025 17:49:54] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4173
+[04/Oct/2025 17:49:55] "GET /polls/ HTTP/1.1" 200 308
+[04/Oct/2025 17:49:58] "GET /polls/3/ HTTP/1.1" 200 694
+[04/Oct/2025 17:49:59] "POST /polls/3/vote/ HTTP/1.1" 302 0
+[04/Oct/2025 17:49:59] "GET /polls/3/results/ HTTP/1.1" 200 185
+[04/Oct/2025 17:50:00] "GET /polls/3/ HTTP/1.1" 200 694
+[04/Oct/2025 17:50:01] "POST /polls/3/vote/ HTTP/1.1" 302 0
+[04/Oct/2025 17:50:01] "GET /polls/3/results/ HTTP/1.1" 200 185
+[04/Oct/2025 17:50:02] "GET /polls/3/ HTTP/1.1" 200 694
+[04/Oct/2025 17:50:04] "POST /polls/3/vote/ HTTP/1.1" 302 0
+[04/Oct/2025 17:50:04] "GET /polls/3/results/ HTTP/1.1" 200 185
+[04/Oct/2025 17:50:05] "GET /polls/3/ HTTP/1.1" 200 694
+[04/Oct/2025 17:50:06] "POST /polls/3/vote/ HTTP/1.1" 302 0
+[04/Oct/2025 17:50:06] "GET /polls/3/results/ HTTP/1.1" 200 185
+[04/Oct/2025 17:50:07] "GET /polls/3/ HTTP/1.1" 200 694
+[04/Oct/2025 18:11:30] "GET /polls/ HTTP/1.1" 200 308
+[04/Oct/2025 18:19:23] "GET /polls/ HTTP/1.1" 200 308
+[04/Oct/2025 18:19:24] "GET /polls/3/ HTTP/1.1" 200 694
+[04/Oct/2025 18:19:25] "POST /polls/3/vote/ HTTP/1.1" 302 0
+[04/Oct/2025 18:19:25] "GET /polls/3/results/ HTTP/1.1" 200 185
+[04/Oct/2025 18:19:26] "GET /polls/3/ HTTP/1.1" 200 694
+[04/Oct/2025 18:19:27] "POST /polls/3/vote/ HTTP/1.1" 302 0
+[04/Oct/2025 18:19:27] "GET /polls/3/results/ HTTP/1.1" 200 185
+Not Found: /favicon.ico
+[04/Oct/2025 18:34:08] "GET /favicon.ico HTTP/1.1" 404 2360
+[04/Oct/2025 18:34:12] "GET /polls/ HTTP/1.1" 200 308
+Not Found: /
+[04/Oct/2025 22:59:17] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[04/Oct/2025 23:00:29] "GET / HTTP/1.1" 404 2309
+[04/Oct/2025 23:01:38] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03^\x05Ön\x89b\\þe¨Jý\x94f<%1wY^¼þ\x9eR®S\x91¯ýÚÜ\x92\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[04/Oct/2025 23:01:38] You're accessing the development server over HTTPS, but it only supports HTTP.
+[04/Oct/2025 23:04:07] code 400, message Bad request syntax ('SSH-2.0-Go')
+[04/Oct/2025 23:04:07] "SSH-2.0-Go" 400 -
+[04/Oct/2025 23:05:22] code 400, message Bad request version ('À\x14À')
+[04/Oct/2025 23:05:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /favicon.ico
+[05/Oct/2025 00:04:15] "GET /favicon.ico HTTP/1.1" 404 2360
+[05/Oct/2025 00:36:58] "GET /polls/ HTTP/1.1" 200 308
+Not Found: /favicon.ico
+[05/Oct/2025 00:36:59] "GET /favicon.ico HTTP/1.1" 404 2360
+[05/Oct/2025 00:37:04] "GET /polls/11/ HTTP/1.1" 200 691
+[05/Oct/2025 00:37:07] "POST /polls/11/vote/ HTTP/1.1" 302 0
+[05/Oct/2025 00:37:07] "GET /polls/11/results/ HTTP/1.1" 200 178
+[05/Oct/2025 00:37:09] "GET /polls/11/ HTTP/1.1" 200 691
+[05/Oct/2025 00:37:13] "POST /polls/11/vote/ HTTP/1.1" 302 0
+[05/Oct/2025 00:37:13] "GET /polls/11/results/ HTTP/1.1" 200 178
+[05/Oct/2025 00:37:20] "GET /polls/11/ HTTP/1.1" 200 691
+[05/Oct/2025 02:28:51] code 400, message Bad request syntax ('\x00\x00\x00TZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x10\x04\x00(Á\x00\x00\x00\x00\x0f\x02\x00')
+[05/Oct/2025 02:28:51] "   TZ          (Á     " 400 -
+Not Found: /
+[05/Oct/2025 02:28:52] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[05/Oct/2025 02:28:53] "GET /favicon.ico HTTP/1.1" 404 2360
+Not Found: /favicon.ico
+[05/Oct/2025 02:30:49] "GET /favicon.ico HTTP/1.1" 404 2360
+[05/Oct/2025 02:30:51] "GET /polls/ HTTP/1.1" 200 308
+Not Found: /
+[05/Oct/2025 04:30:47] "GET / HTTP/1.1" 404 2304
+Not Found: /favicon.ico
+[05/Oct/2025 04:30:47] "GET /favicon.ico HTTP/1.1" 404 2355
+[05/Oct/2025 04:54:04] code 400, message Bad request version ('À\x14À')
+[05/Oct/2025 04:54:04] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Oct/2025 04:54:04] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[05/Oct/2025 04:54:04] "MGLNDD_3.141.194.75_8000" 400 -
+[05/Oct/2025 06:23:26] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x15gZ9©´þPJ2÷\x94J\x92-ÚzP¤¾á²Trú\x13\\\x13\x86ê§\x16\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[05/Oct/2025 06:23:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Oct/2025 06:23:26] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03îgÝ~ø\x88Ã\x1aq«×ÔôÞ&\x9dgÿ±4ò?»Á°~5\x94K\x00Þm\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[05/Oct/2025 06:23:26] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[05/Oct/2025 06:23:26] "GET / HTTP/1.1" 404 2309
+Not Found: /login
+[05/Oct/2025 06:23:27] "GET /login HTTP/1.1" 404 2342
+Not Found: /
+[05/Oct/2025 09:13:20] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[05/Oct/2025 09:13:38] "GET /favicon.ico HTTP/1.1" 404 2360
+[05/Oct/2025 11:18:13] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[05/Oct/2025 11:18:13] "    c                           " 400 -
+Not Found: /
+[05/Oct/2025 13:18:38] "GET / HTTP/1.1" 404 2309
+[05/Oct/2025 13:18:38] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[05/Oct/2025 13:18:38] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[05/Oct/2025 13:34:33] "GET / HTTP/1.1" 404 2309
+[05/Oct/2025 14:55:18,744] - Broken pipe from ('37.113.47.208', 3403)
+[05/Oct/2025 14:55:26,004] - Broken pipe from ('37.113.47.208', 4091)
+[05/Oct/2025 14:55:33,284] - Broken pipe from ('37.113.47.208', 4828)
+[05/Oct/2025 14:55:38,474] - Broken pipe from ('37.113.47.208', 5602)
+[05/Oct/2025 14:55:43,633] - Broken pipe from ('37.113.47.208', 6137)
+Not Found: /
+[05/Oct/2025 15:04:58] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[05/Oct/2025 15:04:58] "GET /favicon.ico HTTP/1.1" 404 2360
+[05/Oct/2025 15:05:02] "GET /polls HTTP/1.1" 301 0
+[05/Oct/2025 15:05:02] "GET /polls/ HTTP/1.1" 200 308
+[05/Oct/2025 15:05:04] "GET /polls/9/ HTTP/1.1" 200 697
+[05/Oct/2025 15:05:08] "GET /polls/ HTTP/1.1" 200 308
+[05/Oct/2025 15:05:09] "GET /admin HTTP/1.1" 301 0
+[05/Oct/2025 15:05:09] "GET /admin/ HTTP/1.1" 200 10538
+[05/Oct/2025 15:05:09] "GET /static/admin/css/base.css HTTP/1.1" 200 22120
+[05/Oct/2025 15:05:09] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+[05/Oct/2025 15:05:09] "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+[05/Oct/2025 15:05:09] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[05/Oct/2025 15:05:09] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+[05/Oct/2025 15:05:09] "GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+[05/Oct/2025 15:05:10] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+[05/Oct/2025 15:05:10] "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[05/Oct/2025 15:05:10] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[05/Oct/2025 15:05:10] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[05/Oct/2025 15:05:14] "GET /admin/polls/question/add/ HTTP/1.1" 200 9988
+[05/Oct/2025 15:05:14] "GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+[05/Oct/2025 15:05:14] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[05/Oct/2025 15:05:14] "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+[05/Oct/2025 15:05:14] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[05/Oct/2025 15:05:14] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+[05/Oct/2025 15:05:14] "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+[05/Oct/2025 15:05:14] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+[05/Oct/2025 15:05:14] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+[05/Oct/2025 15:05:14] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+[05/Oct/2025 15:05:14] "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+[05/Oct/2025 15:05:14] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[05/Oct/2025 15:05:14] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+[05/Oct/2025 15:05:14] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+[05/Oct/2025 15:05:14] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+[05/Oct/2025 15:05:14] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[05/Oct/2025 15:05:15] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+[05/Oct/2025 15:05:15] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[05/Oct/2025 15:07:26] "GET /admin/polls/question/add/ HTTP/1.1" 200 9988
+[05/Oct/2025 15:07:26] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[05/Oct/2025 15:07:28] "GET /admin/auth/user/add/ HTTP/1.1" 200 12877
+[05/Oct/2025 15:07:28] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[05/Oct/2025 15:07:28] "GET /static/admin/css/unusable_password_field.css HTTP/1.1" 200 663
+[05/Oct/2025 15:07:28] "GET /static/admin/js/unusable_password_field.js HTTP/1.1" 200 1480
+[05/Oct/2025 15:07:31] "GET /admin/auth/group/add/ HTTP/1.1" 200 12818
+[05/Oct/2025 15:07:31] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[05/Oct/2025 15:07:31] "GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+[05/Oct/2025 15:07:31] "GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15845
+[05/Oct/2025 15:07:31] "GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+[05/Oct/2025 15:07:31] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[05/Oct/2025 15:07:40] "GET /admin/polls/question/add/ HTTP/1.1" 200 9988
+[05/Oct/2025 15:07:40] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[05/Oct/2025 15:09:03] "GET /admin/polls/question/add/ HTTP/1.1" 200 9988
+[05/Oct/2025 15:09:03] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[05/Oct/2025 15:09:04] "GET /admin/polls/question/add/ HTTP/1.1" 200 9988
+[05/Oct/2025 15:09:04] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[05/Oct/2025 15:09:05] "GET /admin/polls/question/add/ HTTP/1.1" 200 9988
+[05/Oct/2025 15:09:06] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[05/Oct/2025 15:09:35] "GET /admin/polls HTTP/1.1" 301 0
+[05/Oct/2025 15:09:35] "GET /admin/polls/ HTTP/1.1" 200 5454
+[05/Oct/2025 15:09:37] "GET /admin/polls/question/ HTTP/1.1" 200 10700
+[05/Oct/2025 15:09:37] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+[05/Oct/2025 15:09:37] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[05/Oct/2025 15:09:37] "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+[05/Oct/2025 15:09:37] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[05/Oct/2025 15:09:39] "GET /admin/polls/question/add/ HTTP/1.1" 200 9988
+[05/Oct/2025 15:09:39] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[05/Oct/2025 15:09:40] "GET /admin/polls/question/ HTTP/1.1" 200 10700
+[05/Oct/2025 15:09:41] "GET /admin/polls/ HTTP/1.1" 200 5454
+[05/Oct/2025 15:09:45] "GET /admin/ HTTP/1.1" 200 10538
+[05/Oct/2025 15:09:47] "GET /admin/polls/question/add/ HTTP/1.1" 200 9988
+[05/Oct/2025 15:09:47] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[05/Oct/2025 15:09:49] "GET /admin/polls/question/add/ HTTP/1.1" 200 9988
+[05/Oct/2025 15:09:49] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[05/Oct/2025 15:10:11] "GET /admin/polls HTTP/1.1" 301 0
+[05/Oct/2025 15:10:11] "GET /admin/polls/ HTTP/1.1" 200 5454
+[05/Oct/2025 15:11:20] "GET /admin/polls HTTP/1.1" 301 0
+[05/Oct/2025 15:11:20] "GET /admin/polls/ HTTP/1.1" 200 5454
+[05/Oct/2025 15:11:23] "GET /admin/ HTTP/1.1" 200 10538
+[05/Oct/2025 15:11:27] "GET /admin/polls/question/ HTTP/1.1" 200 10700
+[05/Oct/2025 15:11:27] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[05/Oct/2025 15:11:33] "GET /admin/polls/question/add/ HTTP/1.1" 200 9988
+[05/Oct/2025 15:11:33] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[05/Oct/2025 15:14:08] "GET /admin/ HTTP/1.1" 200 10538
+[05/Oct/2025 15:14:10] "GET /admin/polls/question/add/ HTTP/1.1" 200 9988
+[05/Oct/2025 15:14:10] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Not Found: /
+[05/Oct/2025 15:55:19] "GET / HTTP/1.1" 404 2309
+[05/Oct/2025 15:55:24] code 505, message Invalid HTTP version (2.0)
+[05/Oct/2025 15:55:24] "PRI * HTTP/2.0" 505 -
+[05/Oct/2025 16:16:42] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[05/Oct/2025 16:16:42] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[05/Oct/2025 17:26:02] "GET / HTTP/1.1" 404 2304
+Not Found: /favicon.ico
+[05/Oct/2025 17:26:02] "GET /favicon.ico HTTP/1.1" 404 2355
+Not Found: /
+[05/Oct/2025 20:00:26] "GET / HTTP/1.1" 404 2309
+[05/Oct/2025 20:00:27] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[05/Oct/2025 20:00:27] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /http:/112.124.42.80:63435/
+[05/Oct/2025 22:00:29] "HEAD http://112.124.42.80:63435/ HTTP/1.1" 404 0
+Not Found: /
+[05/Oct/2025 22:43:10] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[05/Oct/2025 22:45:01] "GET / HTTP/1.1" 404 2309
+[05/Oct/2025 22:46:43] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x84Ú6\x1bÄ#(\x93á\x98\x84¶Aÿ1"÷\x88ÕÎ\x05¯td5ú§{s`»R\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[05/Oct/2025 22:46:43] You're accessing the development server over HTTPS, but it only supports HTTP.
+[05/Oct/2025 22:48:35] code 400, message Bad request syntax ('SSH-2.0-Go')
+[05/Oct/2025 22:48:35] "SSH-2.0-Go" 400 -
+[05/Oct/2025 22:49:48] code 400, message Bad request version ('À\x14À')
+[05/Oct/2025 22:49:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[06/Oct/2025 00:17:42] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[06/Oct/2025 00:19:13] "GET / HTTP/1.1" 404 2309
+[06/Oct/2025 00:20:23] code 400, message Bad request version ('À\x14À')
+[06/Oct/2025 00:20:23] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Oct/2025 00:22:20] code 400, message Bad request syntax ('SSH-2.0-Go')
+[06/Oct/2025 00:22:20] "SSH-2.0-Go" 400 -
+[06/Oct/2025 00:22:36] code 400, message Bad request version ('À\x14À')
+[06/Oct/2025 00:22:36] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[06/Oct/2025 00:36:35] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[06/Oct/2025 00:36:53] "GET /favicon.ico HTTP/1.1" 404 2360
+Not Found: /http:/api.ipify.org/
+[06/Oct/2025 00:37:02] "GET http://api.ipify.org/?format=json HTTP/1.1" 404 1873
+Not Found: /www.shadowserver.org:443
+[06/Oct/2025 00:37:05] "CONNECT www.shadowserver.org:443 HTTP/1.1" 404 1882
+[06/Oct/2025 01:11:16] code 400, message Bad request version ('À\x14À')
+[06/Oct/2025 01:11:16] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Oct/2025 01:11:17] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x10R@{\x8b\x8e\x03;ce\x16|iæ¢\xad\x10c\x1a÷xEð¯¬\x0e_L<I\x14Ü\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[06/Oct/2025 01:11:17] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[06/Oct/2025 01:11:17] "GET / HTTP/1.1" 404 2309
+Not Found: /login
+[06/Oct/2025 01:11:18] "GET /login HTTP/1.1" 404 2342
+[06/Oct/2025 10:45:22] code 400, message Bad request version ('À\x13À')
+[06/Oct/2025 10:45:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Oct/2025 10:45:24] code 400, message Bad request syntax ('\x16\x03\x01\x00á\x01\x00\x00Ý\x03\x03Ù¼äó®Ã=¶\x8cÔ½wªÓÎüg9')
+[06/Oct/2025 10:45:24] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Oct/2025 10:45:27] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00á\x01\x00\x00Ý\x03\x03WET\\ù¾ç×yÁ\x86\x89\x94®\x18F¤\x94ÐÆM¬¹Þ¦N\x8a\x995\x89ö?')
+[06/Oct/2025 10:45:27] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Oct/2025 10:56:19] code 400, message Bad request version ('À\x13À')
+[06/Oct/2025 10:56:19] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Oct/2025 10:56:21] code 400, message Bad request version ('À\x13À')
+[06/Oct/2025 10:56:21] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Oct/2025 10:56:24] code 400, message Bad request version ('À\x13À')
+[06/Oct/2025 10:56:24] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Oct/2025 11:00:33] code 400, message Bad request version ('À\x13À')
+[06/Oct/2025 11:00:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Oct/2025 11:00:35] code 400, message Bad request version ('À\x13À')
+[06/Oct/2025 11:00:35] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Oct/2025 11:00:38] code 400, message Bad request version ('À\x13À')
+[06/Oct/2025 11:00:38] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Oct/2025 12:20:11] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x16¿\x16\x7f%¯7ÎuR\x9e\x81Gg,\x05¦\x11\x02AÄ.b')
+[06/Oct/2025 12:20:11] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Oct/2025 12:20:11] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[06/Oct/2025 12:20:11] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /aaa9
+[06/Oct/2025 15:43:35] "GET /aaa9 HTTP/1.1" 404 2339
+Not Found: /aab8
+[06/Oct/2025 15:43:36] "GET /aab8 HTTP/1.1" 404 2339
+Not Found: /
+[06/Oct/2025 15:43:38] "GET / HTTP/1.1" 404 2309
+[06/Oct/2025 16:53:41] "GET /admin/polls/question/add/ HTTP/1.1" 200 9988
+[06/Oct/2025 16:53:41] "GET /static/admin/css/base.css HTTP/1.1" 200 22120
+[06/Oct/2025 16:53:41] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+[06/Oct/2025 16:53:41] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[06/Oct/2025 16:53:41] "GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+[06/Oct/2025 16:53:41] "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+[06/Oct/2025 16:53:41] "GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+[06/Oct/2025 16:53:41] "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+[06/Oct/2025 16:53:41] "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+[06/Oct/2025 16:53:41] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[06/Oct/2025 16:53:41] "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+[06/Oct/2025 16:53:41] "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+[06/Oct/2025 16:53:41] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+[06/Oct/2025 16:53:41] "GET /static/admin/css/widgets.css HTTP/1.1" 200 11991
+[06/Oct/2025 16:53:41] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+[06/Oct/2025 16:53:41] "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+[06/Oct/2025 16:53:41] "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+[06/Oct/2025 16:53:41] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[06/Oct/2025 16:53:41] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+[06/Oct/2025 16:53:41] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+[06/Oct/2025 16:53:42] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+[06/Oct/2025 16:53:42] "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+[06/Oct/2025 16:53:42] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[06/Oct/2025 16:53:42] "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[06/Oct/2025 16:53:42] "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+Not Found: /favicon.ico
+[06/Oct/2025 16:53:42] "GET /favicon.ico HTTP/1.1" 404 2360
+Not Found: /
+[06/Oct/2025 17:20:42] "GET / HTTP/1.1" 404 2309
+[06/Oct/2025 17:20:42] code 505, message Invalid HTTP version (2.0)
+[06/Oct/2025 17:20:42] "PRI * HTTP/2.0" 505 -
+[06/Oct/2025 17:20:48] code 505, message Invalid HTTP version (2.0)
+[06/Oct/2025 17:20:48] "PRI * HTTP/2.0" 505 -
+Not Found: /wiki
+[06/Oct/2025 17:20:49] "GET /wiki HTTP/1.1" 404 2339
+[06/Oct/2025 19:21:03] code 400, message Bad request syntax ('\x00\x00\x00l\x00\x00\x00\x00\x00\x00\x00\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00\x00\x00\x00')
+[06/Oct/2025 19:21:03] "   l                                                                                                      " 400 -
+[06/Oct/2025 22:45:29] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x86«[³K\x96°u`yçâW\x95F\x1b£÷ëQFld"U=YR\x04«ªc\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[06/Oct/2025 22:45:29] You're accessing the development server over HTTPS, but it only supports HTTP.
+[06/Oct/2025 22:45:29] code 400, message Bad request version ('À\x14À')
+[06/Oct/2025 22:45:29] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[06/Oct/2025 22:45:29] "GET / HTTP/1.1" 404 2309
+Not Found: /login
+[06/Oct/2025 22:45:30] "GET /login HTTP/1.1" 404 2342
+Not Found: /
+[07/Oct/2025 00:28:16] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[07/Oct/2025 00:29:33] "GET / HTTP/1.1" 404 2309
+[07/Oct/2025 00:30:19] code 400, message Bad request version ('À\x14À')
+[07/Oct/2025 00:30:19] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Oct/2025 00:31:36] code 400, message Bad request syntax ('SSH-2.0-Go')
+[07/Oct/2025 00:31:36] "SSH-2.0-Go" 400 -
+[07/Oct/2025 00:32:32] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x036Æwºö\x8c&Õ\x84Í\x82ÀÅ0Úk°C\x06JOö±\\£«\x9dÖ\x96WJy\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[07/Oct/2025 00:32:32] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Oct/2025 01:45:40] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[07/Oct/2025 01:45:40] "MGLNDD_3.141.194.75_8000" 400 -
+[07/Oct/2025 09:36:04,642] - Broken pipe from ('31.148.146.154', 54633)
+[07/Oct/2025 10:55:49] code 400, message Bad request version ('À\x14À')
+[07/Oct/2025 10:55:49] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Oct/2025 11:12:18] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[07/Oct/2025 11:12:18] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[07/Oct/2025 11:58:12] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[07/Oct/2025 12:21:47] "GET / HTTP/1.1" 404 2304
+Not Found: /favicon.ico
+[07/Oct/2025 12:21:47] "GET /favicon.ico HTTP/1.1" 404 2355
+[07/Oct/2025 13:48:12,921] - Broken pipe from ('31.148.146.154', 63598)
+[07/Oct/2025 16:52:11] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ß\x1b\x96Ë\x8dq)CcG\x01¤Õb¾í\x15H\x10\x01]{[ÄL¨\x0e÷×\x94\x14õ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[07/Oct/2025 16:52:11] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Oct/2025 16:52:11] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[07/Oct/2025 16:52:11] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[07/Oct/2025 18:07:49] "GET / HTTP/1.1" 404 2309
+[07/Oct/2025 18:07:49] code 505, message Invalid HTTP version (2.0)
+[07/Oct/2025 18:07:49] "PRI * HTTP/2.0" 505 -
+[07/Oct/2025 18:07:55] code 505, message Invalid HTTP version (2.0)
+[07/Oct/2025 18:07:55] "PRI * HTTP/2.0" 505 -
+Not Found: /security.txt
+[07/Oct/2025 18:07:55] "GET /security.txt HTTP/1.1" 404 2363
+[07/Oct/2025 18:13:54] code 400, message Bad request version ('À\x14À')
+[07/Oct/2025 18:13:54] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Oct/2025 18:48:12] code 400, message Bad request version ('À\x14À')
+[07/Oct/2025 18:48:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Oct/2025 18:48:12] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03p\x19Åm¢þTjaç\x93\x00ÎîE\x82]x,O1T\x00¬}%ð\x0eäÉÍ(\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[07/Oct/2025 18:48:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[07/Oct/2025 18:48:12] "GET / HTTP/1.1" 404 2309
+Not Found: /login
+[07/Oct/2025 18:48:12] "GET /login HTTP/1.1" 404 2342
+[07/Oct/2025 22:09:48] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03a)\x02¾Y\x98;Ç»·]«M/Bµ\x8eÞuÅ\x13\x13÷\x97ª')
+[07/Oct/2025 22:09:48] You're accessing the development server over HTTPS, but it only supports HTTP.
+[07/Oct/2025 22:09:48] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[07/Oct/2025 22:09:48] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[08/Oct/2025 01:55:15] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[08/Oct/2025 01:57:02] "GET / HTTP/1.1" 404 2309
+[08/Oct/2025 01:58:18] code 400, message Bad request version ('À\x14À')
+[08/Oct/2025 01:58:18] You're accessing the development server over HTTPS, but it only supports HTTP.
+[08/Oct/2025 02:01:00] code 400, message Bad request syntax ('SSH-2.0-Go')
+[08/Oct/2025 02:01:00] "SSH-2.0-Go" 400 -
+[08/Oct/2025 02:01:59] code 400, message Bad request version ('À\x14À')
+[08/Oct/2025 02:01:59] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[08/Oct/2025 06:19:32] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[08/Oct/2025 06:21:27] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[08/Oct/2025 06:22:00] "GET /favicon.ico HTTP/1.1" 404 2360
+Not Found: /http:/api.ipify.org/
+[08/Oct/2025 06:22:03] "GET http://api.ipify.org/?format=json HTTP/1.1" 404 1873
+Not Found: /www.shadowserver.org:443
+[08/Oct/2025 06:22:05] "CONNECT www.shadowserver.org:443 HTTP/1.1" 404 1882
+Not Found: /
+[08/Oct/2025 10:49:57] "GET / HTTP/1.1" 404 2309
+[08/Oct/2025 17:25:57] code 400, message Bad request version ('À\x14À')
+[08/Oct/2025 17:25:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+[08/Oct/2025 17:25:58] code 400, message Bad request version ('À\x14À')
+[08/Oct/2025 17:25:58] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[08/Oct/2025 17:25:58] "GET / HTTP/1.1" 404 2309
+Not Found: /login
+[08/Oct/2025 17:25:59] "GET /login HTTP/1.1" 404 2342
+Not Found: /
+[08/Oct/2025 19:18:16] "GET / HTTP/1.1" 404 2309
+[08/Oct/2025 19:18:16] code 505, message Invalid HTTP version (2.0)
+[08/Oct/2025 19:18:16] "PRI * HTTP/2.0" 505 -
+[08/Oct/2025 19:18:21] code 505, message Invalid HTTP version (2.0)
+[08/Oct/2025 19:18:21] "PRI * HTTP/2.0" 505 -
+Not Found: /wiki
+[08/Oct/2025 19:18:24] "GET /wiki HTTP/1.1" 404 2339
+[08/Oct/2025 21:35:01] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[08/Oct/2025 21:35:01] "MGLNDD_3.141.194.75_8000" 400 -
+[08/Oct/2025 21:38:34] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[08/Oct/2025 21:38:34] "    c                           " 400 -
+[09/Oct/2025 00:03:56] code 400, message Bad request version ('À\x14À')
+[09/Oct/2025 00:03:56] You're accessing the development server over HTTPS, but it only supports HTTP.
+[09/Oct/2025 00:03:56] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[09/Oct/2025 00:03:56] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[09/Oct/2025 02:05:44] "GET / HTTP/1.1" 404 2309
+[09/Oct/2025 02:05:45] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[09/Oct/2025 02:05:45] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[09/Oct/2025 02:07:18] "GET / HTTP/1.1" 404 2309
+[09/Oct/2025 02:09:52] code 400, message Bad request version ('À\x14À')
+[09/Oct/2025 02:09:52] You're accessing the development server over HTTPS, but it only supports HTTP.
+[09/Oct/2025 02:11:23] code 400, message Bad request syntax ('SSH-2.0-Go')
+[09/Oct/2025 02:11:23] "SSH-2.0-Go" 400 -
+[09/Oct/2025 02:13:00] code 400, message Bad request version ('À\x14À')
+[09/Oct/2025 02:13:00] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /helpdesk/WebObjects/Helpdesk.woa
+[09/Oct/2025 03:39:04] "GET /helpdesk/WebObjects/Helpdesk.woa HTTP/1.1" 404 2423
+Not Found: /
+[09/Oct/2025 06:18:16] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[09/Oct/2025 06:18:38] "GET /favicon.ico HTTP/1.1" 404 2360
+Not Found: /www.shadowserver.org:443
+[09/Oct/2025 06:18:45] "CONNECT www.shadowserver.org:443 HTTP/1.1" 404 1882
+[09/Oct/2025 20:05:17] code 400, message Bad request version ('À\x14À')
+[09/Oct/2025 20:05:17] You're accessing the development server over HTTPS, but it only supports HTTP.
+[09/Oct/2025 20:05:17] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x90¢ÙÄöúÐrEMFÞÜr7\x0f×E=\x92y]Õ¿\x9eÅÃ/l¿\x11\x7f\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[09/Oct/2025 20:05:17] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[09/Oct/2025 20:05:17] "GET / HTTP/1.1" 404 2309
+Not Found: /login
+[09/Oct/2025 20:05:17] "GET /login HTTP/1.1" 404 2342
+Not Found: /
+[09/Oct/2025 20:21:28] "GET / HTTP/1.1" 404 2309
+[09/Oct/2025 20:21:29] code 505, message Invalid HTTP version (2.0)
+[09/Oct/2025 20:21:29] "PRI * HTTP/2.0" 505 -
+[09/Oct/2025 20:21:35] code 505, message Invalid HTTP version (2.0)
+[09/Oct/2025 20:21:35] "PRI * HTTP/2.0" 505 -
+Not Found: /sitemap.xml
+[09/Oct/2025 20:21:37] "GET /sitemap.xml HTTP/1.1" 404 2360
+Not Found: /
+[09/Oct/2025 20:26:12] "GET / HTTP/1.1" 404 2304
+Not Found: /favicon.ico
+[09/Oct/2025 20:26:12] "GET /favicon.ico HTTP/1.1" 404 2355
+Not Found: /
+[10/Oct/2025 01:20:29] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[10/Oct/2025 02:43:56] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[10/Oct/2025 02:44:50] "GET / HTTP/1.1" 404 2309
+[10/Oct/2025 02:45:53] code 400, message Bad request version ('À\x14À')
+[10/Oct/2025 02:45:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+[10/Oct/2025 02:47:48] code 400, message Bad request syntax ('SSH-2.0-Go')
+[10/Oct/2025 02:47:48] "SSH-2.0-Go" 400 -
+[10/Oct/2025 02:49:15] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ó\x7f§áK_Í\x99Ã¯¼åÙÿA\x01{!fµã$h\x7fð/\x13\x07§éÿ³\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[10/Oct/2025 02:49:15] You're accessing the development server over HTTPS, but it only supports HTTP.
+[10/Oct/2025 04:21:09] code 400, message Bad request version ('À\x14À')
+[10/Oct/2025 04:21:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+[10/Oct/2025 04:21:09] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[10/Oct/2025 04:21:09] "MGLNDD_3.141.194.75_8000" 400 -
+[10/Oct/2025 04:27:09] code 400, message Bad request version ('À\x14À')
+[10/Oct/2025 04:27:09] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[10/Oct/2025 05:08:56] "GET / HTTP/1.1" 404 2309
+[10/Oct/2025 06:38:31] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[10/Oct/2025 06:38:31] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[10/Oct/2025 12:08:04] "GET / HTTP/1.1" 404 2309
+Not Found: /http:/api.ipify.org/
+[10/Oct/2025 12:08:29] "GET http://api.ipify.org/?format=json HTTP/1.1" 404 1873
+[10/Oct/2025 16:24:43] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[10/Oct/2025 16:24:43] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[10/Oct/2025 17:30:34] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[10/Oct/2025 17:30:35] "GET /favicon.ico HTTP/1.1" 404 2360
+Not Found: /robots.txt
+[10/Oct/2025 17:30:35] "GET /robots.txt HTTP/1.1" 404 2357
+Not Found: /sitemap.xml
+[10/Oct/2025 17:30:35] "GET /sitemap.xml HTTP/1.1" 404 2360
+[10/Oct/2025 19:29:56] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x035\x9aE>\x06|\x8aÏ\x10®\x00ë\x96¤FY+·eO¸ñ5Ôô\x93(\x8fÔÑÌ\x87\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[10/Oct/2025 19:29:56] You're accessing the development server over HTTPS, but it only supports HTTP.
+[10/Oct/2025 19:29:57] code 400, message Bad request version ('À\x14À')
+[10/Oct/2025 19:29:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[10/Oct/2025 19:29:57] "GET / HTTP/1.1" 404 2309
+Not Found: /login
+[10/Oct/2025 19:29:58] "GET /login HTTP/1.1" 404 2342
+Not Found: /
+[10/Oct/2025 21:22:40] "GET / HTTP/1.1" 404 2309
+[10/Oct/2025 21:22:40] code 505, message Invalid HTTP version (2.0)
+[10/Oct/2025 21:22:40] "PRI * HTTP/2.0" 505 -
+[10/Oct/2025 21:22:44] code 505, message Invalid HTTP version (2.0)
+[10/Oct/2025 21:22:44] "PRI * HTTP/2.0" 505 -
+Not Found: /login
+[10/Oct/2025 21:22:47] "GET /login HTTP/1.1" 404 2342
+Not Found: /
+[11/Oct/2025 00:38:29] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[11/Oct/2025 00:38:51] "GET /favicon.ico HTTP/1.1" 404 2360
+Not Found: /http:/api.ipify.org/
+[11/Oct/2025 00:39:01] "GET http://api.ipify.org/?format=json HTTP/1.1" 404 1873
+Not Found: /www.shadowserver.org:443
+[11/Oct/2025 00:39:04] "CONNECT www.shadowserver.org:443 HTTP/1.1" 404 1882
+Not Found: /
+[11/Oct/2025 01:41:16] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[11/Oct/2025 03:52:43] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[11/Oct/2025 03:53:52] "GET / HTTP/1.1" 404 2309
+[11/Oct/2025 03:55:13] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x88ú¬=ø>ÝfÌ×\x96~eÃ÷°V\x040uì»XT\x12\x05\x1b÷@=k\x04\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[11/Oct/2025 03:55:13] You're accessing the development server over HTTPS, but it only supports HTTP.
+[11/Oct/2025 03:57:37] code 400, message Bad request syntax ('SSH-2.0-Go')
+[11/Oct/2025 03:57:37] "SSH-2.0-Go" 400 -
+[11/Oct/2025 03:58:43] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03')
+[11/Oct/2025 03:58:43] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[11/Oct/2025 04:02:30] "GET / HTTP/1.0" 404 2340
+Not Found: /
+[11/Oct/2025 04:02:30] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[11/Oct/2025 04:02:30] "GET /favicon.ico HTTP/1.1" 404 2360
+[11/Oct/2025 05:58:39] code 400, message Bad request version ('j!\x82\x7f®YÛ\x9e¶ß\x10\x16\x86J{/pï\x8e\x88')
+[11/Oct/2025 05:58:39] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[11/Oct/2025 05:58:42] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[11/Oct/2025 06:07:12] "GET /favicon.ico HTTP/1.1" 404 2360
+[11/Oct/2025 09:35:22] code 400, message Bad request version ('À\x14À')
+[11/Oct/2025 09:35:22] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[11/Oct/2025 09:35:46] "GET / HTTP/1.1" 404 2309
+Not Found: /manage/account/login
+[11/Oct/2025 09:36:10] "GET /manage/account/login HTTP/1.1" 404 2387
+[11/Oct/2025 09:36:34] "GET /admin/index.html HTTP/1.1" 302 0
+Not Found: /index.html
+[11/Oct/2025 09:36:51] "GET /index.html HTTP/1.1" 404 2357
+Not Found: /+CSCOE+/logon.html
+[11/Oct/2025 09:37:13] "GET /+CSCOE+/logon.html HTTP/1.1" 404 2381
+Not Found: /cgi-bin/login.cgi
+[11/Oct/2025 09:37:35] "GET /cgi-bin/login.cgi HTTP/1.1" 404 2378
+Not Found: /login.htm
+[11/Oct/2025 09:37:50] "GET /login.htm HTTP/1.1" 404 2354
+Not Found: /login.html
+[11/Oct/2025 09:38:12] "GET /login.html HTTP/1.1" 404 2357
+Not Found: /login.jsp
+[11/Oct/2025 09:38:27] "GET /login.jsp HTTP/1.1" 404 2354
+Not Found: /login
+[11/Oct/2025 09:38:43] "GET /login HTTP/1.1" 404 2342
+Not Found: /doc/index.html
+[11/Oct/2025 09:39:07] "GET /doc/index.html HTTP/1.1" 404 2369
+Not Found: /remote/login
+[11/Oct/2025 09:39:29] "GET /remote/login HTTP/1.1" 404 2363
+[11/Oct/2025 09:39:44] "GET //admin/login.asp HTTP/1.1" 302 0
+Not Found: /web/
+[11/Oct/2025 09:40:07] "GET /web/ HTTP/1.1" 404 2339
+Not Found: /webpages/login.html
+[11/Oct/2025 09:40:28] "GET //webpages/login.html HTTP/1.1" 404 2384
+[11/Oct/2025 10:54:44,912] - Broken pipe from ('199.45.155.98', 50034)
+Not Found: /
+[11/Oct/2025 10:54:48] "GET / HTTP/1.1" 404 2309
+[11/Oct/2025 10:54:49,935] - Broken pipe from ('199.45.155.98', 44500)
+Not Found: /
+[11/Oct/2025 10:54:53] "GET / HTTP/1.1" 404 2309
+[11/Oct/2025 10:54:54] code 505, message Invalid HTTP version (2.0)
+[11/Oct/2025 10:54:54] "PRI * HTTP/2.0" 505 -
+[11/Oct/2025 10:55:00] code 505, message Invalid HTTP version (2.0)
+[11/Oct/2025 10:55:00] "PRI * HTTP/2.0" 505 -
+Not Found: /wiki
+[11/Oct/2025 10:55:01] "GET /wiki HTTP/1.1" 404 2339
+[11/Oct/2025 12:39:06] code 400, message Bad request version ('À\x14À')
+[11/Oct/2025 12:39:06] You're accessing the development server over HTTPS, but it only supports HTTP.
+[11/Oct/2025 12:39:06] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[11/Oct/2025 12:39:06] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[11/Oct/2025 12:45:36] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[11/Oct/2025 13:17:36] "GET / HTTP/1.1" 404 2304
+[11/Oct/2025 13:17:36,543] - Broken pipe from ('165.154.163.113', 36476)
+[11/Oct/2025 13:17:37] code 400, message Bad request version ('À\x13À')
+[11/Oct/2025 13:17:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+[11/Oct/2025 13:17:37] code 400, message Bad HTTP/0.9 request type ('t3')
+[11/Oct/2025 13:17:37] "t3 12.1.2" 400 -
+[12/Oct/2025 00:04:16] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[12/Oct/2025 00:04:16] "MGLNDD_3.141.194.75_8000" 400 -
+[12/Oct/2025 00:47:16] code 400, message Bad request version ('À\x14À')
+[12/Oct/2025 00:47:16] You're accessing the development server over HTTPS, but it only supports HTTP.
+[12/Oct/2025 00:47:16] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03.¥Íy>o+ÍT\x1a=\x07;u×ÅÕåC"Úc×RJ¾\x91v&Rñ}\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[12/Oct/2025 00:47:16] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[12/Oct/2025 00:47:16] "GET / HTTP/1.1" 404 2309
+Not Found: /login
+[12/Oct/2025 00:47:17] "GET /login HTTP/1.1" 404 2342
+Not Found: /
+[12/Oct/2025 03:50:10] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[12/Oct/2025 03:51:53] "GET / HTTP/1.1" 404 2309
+[12/Oct/2025 03:53:08] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x8c(z®ÎéÂ\x02ÏV\x8b%yÝê\x98\x9aÊÙ\x02léG!§\x99Òü\x02ðk\x91\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+[12/Oct/2025 03:53:08] You're accessing the development server over HTTPS, but it only supports HTTP.
+[12/Oct/2025 03:55:27] code 400, message Bad request syntax ('SSH-2.0-Go')
+[12/Oct/2025 03:55:27] "SSH-2.0-Go" 400 -
+[12/Oct/2025 03:56:42] code 400, message Bad request version ('À\x14À')
+[12/Oct/2025 03:56:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[12/Oct/2025 06:26:16] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[12/Oct/2025 07:50:29] "GET / HTTP/1.1" 404 2309
+[12/Oct/2025 07:50:29] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[12/Oct/2025 07:50:29] "MGLNDD_3.141.194.75_8000" 400 -
+[12/Oct/2025 08:10:47] code 400, message Bad request syntax ('\x16\x03\x03\x01¥\x01\x00\x01¡\x03\x03¸ãâ0\x83mEº6ß')
+[12/Oct/2025 08:10:47] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[12/Oct/2025 08:10:51] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[12/Oct/2025 08:21:05] "GET /favicon.ico HTTP/1.1" 404 2360
+Not Found: /
+[12/Oct/2025 11:16:30] "GET / HTTP/1.1" 404 2309
+Not Found: /aaa9
+[12/Oct/2025 11:35:59] "GET /aaa9 HTTP/1.1" 404 2339
+Not Found: /aab8
+[12/Oct/2025 11:35:59] "GET /aab8 HTTP/1.1" 404 2339
+Not Found: /
+[12/Oct/2025 11:36:00] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[12/Oct/2025 11:51:51] "GET / HTTP/1.1" 404 2309
+[12/Oct/2025 11:51:52] code 505, message Invalid HTTP version (2.0)
+[12/Oct/2025 11:51:52] "PRI * HTTP/2.0" 505 -
+[12/Oct/2025 11:52:22] code 505, message Invalid HTTP version (2.0)
+[12/Oct/2025 11:52:22] "PRI * HTTP/2.0" 505 -
+Not Found: /security.txt
+[12/Oct/2025 11:52:23] "GET /security.txt HTTP/1.1" 404 2363
+Not Found: /
+[12/Oct/2025 11:57:44] "GET / HTTP/1.1" 404 2304
+Not Found: /favicon.ico
+[12/Oct/2025 11:57:44] "GET /favicon.ico HTTP/1.1" 404 2355
+[12/Oct/2025 16:44:39] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[12/Oct/2025 16:44:39] "    c                           " 400 -
+Not Found: /
+[12/Oct/2025 20:08:12] "GET / HTTP/1.1" 404 2309
+[12/Oct/2025 20:52:45] code 400, message Bad request version ('6ü$.ð0\x13w')
+[12/Oct/2025 20:52:45] You're accessing the development server over HTTPS, but it only supports HTTP.
+[12/Oct/2025 20:52:45] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[12/Oct/2025 20:52:45] "MGLNDD_3.141.194.75_8000" 400 -
+[12/Oct/2025 21:25:33] code 400, message Bad HTTP/0.9 request type ('\x00\x00\x00')
+[12/Oct/2025 21:25:33] "    c                           " 400 -
+[12/Oct/2025 23:46:12] code 400, message Bad request version ('À\x14À')
+[12/Oct/2025 23:46:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[12/Oct/2025 23:46:12] code 400, message Bad request version ('À\x14À')
+[12/Oct/2025 23:46:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[12/Oct/2025 23:46:12] "GET / HTTP/1.1" 404 2309
+Not Found: /login
+[12/Oct/2025 23:46:12] "GET /login HTTP/1.1" 404 2342
+Not Found: /
+[13/Oct/2025 00:16:49] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[13/Oct/2025 01:48:17] "GET / HTTP/1.1" 404 2309
+[13/Oct/2025 04:33:03] code 400, message Bad request version ('À\x14À')
+[13/Oct/2025 04:33:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[13/Oct/2025 04:53:45] "GET / HTTP/1.1" 404 2309
+Not Found: /
+[13/Oct/2025 04:56:48] "GET / HTTP/1.1" 404 2309
+[13/Oct/2025 04:57:33] code 400, message Bad request version ('À\x14À')
+[13/Oct/2025 04:57:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Oct/2025 04:59:50] code 400, message Bad request syntax ('SSH-2.0-Go')
+[13/Oct/2025 04:59:50] "SSH-2.0-Go" 400 -
+[13/Oct/2025 05:00:52] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00{\x01\x00\x00w\x03\x03½\x11û=\x95V¥c\x88ÓR'¬ª-\x14â\x8ffP\x19ðOcÒüt\x94ön§â\x00\x00\x1aÀ/À+À\x11À\x07À\x13À")
+[13/Oct/2025 05:00:52] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Oct/2025 08:33:10] code 400, message Bad request version ('À\x13À')
+[13/Oct/2025 08:33:10] You're accessing the development server over HTTPS, but it only supports HTTP.
+[13/Oct/2025 08:33:21] code 400, message Bad request version ('Ôò\x0e:D\\')
+[13/Oct/2025 08:33:21] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[13/Oct/2025 08:33:22] "GET / HTTP/1.1" 404 2309
+Not Found: /favicon.ico
+[13/Oct/2025 08:33:26] "GET /favicon.ico HTTP/1.1" 404 2360
+[13/Oct/2025 10:39:38] code 400, message Bad request syntax ('MGLNDD_3.141.194.75_8000')
+[13/Oct/2025 10:39:38] "MGLNDD_3.141.194.75_8000" 400 -
+Not Found: /
+[13/Oct/2025 12:54:00] "GET / HTTP/1.1" 404 2309
+[13/Oct/2025 12:54:03] code 505, message Invalid HTTP version (2.0)
+[13/Oct/2025 12:54:03] "PRI * HTTP/2.0" 505 -
+[13/Oct/2025 12:55:11] code 505, message Invalid HTTP version (2.0)
+[13/Oct/2025 12:55:11] "PRI * HTTP/2.0" 505 -
+Not Found: /wiki
+[13/Oct/2025 12:55:13] "GET /wiki HTTP/1.1" 404 2339
+[13/Oct/2025 14:37:25] "GET /polls HTTP/1.1" 301 0
+[13/Oct/2025 14:37:26] "GET /polls/ HTTP/1.1" 200 308
+Not Found: /favicon.ico
+[13/Oct/2025 14:37:26] "GET /favicon.ico HTTP/1.1" 404 2360
+[13/Oct/2025 14:37:27] "GET /polls/10/ HTTP/1.1" 200 682
+[13/Oct/2025 14:37:31] "POST /polls/10/vote/ HTTP/1.1" 302 0
+[13/Oct/2025 14:37:31] "GET /polls/10/results/ HTTP/1.1" 200 168
