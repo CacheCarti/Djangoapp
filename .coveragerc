@@ -1,0 +1,5 @@
+[run]
+omit = */migrations/*,*/venv/*,*/env/*
+
+[report]
+show_missing = True
