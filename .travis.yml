@@ -1,40 +1,75 @@
 language: python
 python:
-  - "3.10"
+  - "3.9"
 
+# Run on Ubuntu
+dist: focal
+
+# Services (if you use a database)
 services:
-  - postgresql
+  - sqlite
 
-env:
-  - DJANGO_SETTINGS_MODULE=mysite.settings
-
-before_install:
-  - pip install --upgrade pip
-  - pip install black flake8 coverage coveralls
-
+# Install dependencies
 install:
   - pip install -r requirements.txt
+  - pip install black flake8 coverage coveralls
 
-before_script:
-  # Set up database (if using SQLite you can skip this)
-  - psql -c "CREATE DATABASE travis_ci_test;" -U postgres || true
-
+# Run formatting, linting, and tests
 script:
-  # 1️⃣ Check formatting
   - black --check .
-  # 2️⃣ Linting
   - flake8 .
-  # 3️⃣ Run tests with coverage
   - coverage run manage.py test
 
+# After tests, report coverage
 after_success:
   - coveralls
 
-# --------------------------------------------------------
-# 🚀 DEPLOY TO EC2
-# --------------------------------------------------------
+# Deploy to EC2 if all tests pass
 deploy:
   provider: script
-  script: bash deploy_ec2.sh
+  script: bash scripts/deploy_ec2.sh
   on:
     branch: main
+
+
+
+# language: python
+# python:
+#   - "3.10"
+
+# services:
+#   - postgresql
+
+# env:
+#   - DJANGO_SETTINGS_MODULE=mysite.settings
+
+# before_install:
+#   - pip install --upgrade pip
+#   - pip install black flake8 coverage coveralls
+
+# install:
+#   - pip install -r requirements.txt
+
+# before_script:
+#   # Set up database (if using SQLite you can skip this)
+#   - psql -c "CREATE DATABASE travis_ci_test;" -U postgres || true
+
+# script:
+#   # 1️⃣ Check formatting
+#   - black --check .
+#   # 2️⃣ Linting
+#   - flake8 .
+#   # 3️⃣ Run tests with coverage
+#   - coverage run manage.py test
+
+# after_success:
+#   - coveralls
+
+# # --------------------------------------------------------
+# # 🚀 DEPLOY TO EC2
+# # --------------------------------------------------------
+# deploy:
+#   provider: script
+#   script: bash deploy_ec2.sh
+#   on:
+#     branch: main
