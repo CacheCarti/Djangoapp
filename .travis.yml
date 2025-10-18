@@ -1,38 +1,7 @@
-language: python
-python:
-  - "3.9"
-
-# Run on Ubuntu
-dist: focal
-
-# Services (if you use a database)
-services:
-  - sqlite
-
-# Install dependencies
-install:
-  - pip install -r requirements.txt
-  - pip install black flake8 coverage coveralls
-
-# Run formatting, linting, and tests
-script:
-  - black --check .
-  - flake8 .
-  - coverage run manage.py test
-
-# After tests, report coverage
-after_success:
-  - coveralls
-
-# Deploy to EC2 if all tests pass
-deploy:
-  provider: script
-  script: bash scripts/deploy_ec2.sh
-  on:
-    branch: main
-
-
-
+   language: ruby
+   rvm:
+    - 2.2
+    - jruby
 # language: python
 # python:
 #   - "3.10"
