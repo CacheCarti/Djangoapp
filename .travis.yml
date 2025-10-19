@@ -1,44 +1,34 @@
-   language: ruby
-   rvm:
-    - 2.2
-    - jruby
-# language: python
-# python:
-#   - "3.10"
+language: python
+python:
+  - "3.10"
 
-# services:
-#   - postgresql
+branches:
+  only:
+    - main
 
-# env:
-#   - DJANGO_SETTINGS_MODULE=mysite.settings
+install:
+  - pip install --upgrade pip
+  - pip install -r requirements.txt
+  - pip install black flake8 coverage coveralls
 
-# before_install:
-#   - pip install --upgrade pip
-#   - pip install black flake8 coverage coveralls
+script:
+  # 1️⃣ code formatting check
+  - black --check .
+  # 2️⃣ linting check
+  - flake8 .
+  # 3️⃣ run test suite + coverage
+  - coverage run manage.py test
 
-# install:
-#   - pip install -r requirements.txt
+after_success:
+  - coveralls
 
-# before_script:
-#   # Set up database (if using SQLite you can skip this)
-#   - psql -c "CREATE DATABASE travis_ci_test;" -U postgres || true
+before_deploy:
+  - eval "$(ssh-agent -s)"
+  - chmod 600 travis_key
+  - ssh-add travis_key
 
-# script:
-#   # 1️⃣ Check formatting
-#   - black --check .
-#   # 2️⃣ Linting
-#   - flake8 .
-#   # 3️⃣ Run tests with coverage
-#   - coverage run manage.py test
-
-# after_success:
-#   - coveralls
-
-# # --------------------------------------------------------
-# # 🚀 DEPLOY TO EC2
-# # --------------------------------------------------------
-# deploy:
-#   provider: script
-#   script: bash deploy_ec2.sh
-#   on:
-#     branch: main
+deploy:
+  provider: script
+  script: bash deploy_ec2.sh
+  on:
+    branch: main
