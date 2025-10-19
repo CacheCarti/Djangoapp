@@ -1,34 +1,66 @@
+# language: python
+# python:
+#   - "3.10"
+
+# branches:
+#   only:
+#     - main
+
+# install:
+#   - pip install --upgrade pip
+#   - pip install -r requirements.txt
+#   - pip install black flake8 coverage coveralls
+
+# script:
+#   # 1️⃣ code formatting chec
+#   - black --check .
+#   # 2️⃣ linting check
+#   - flake8 .
+#   # 3️⃣ run test suite + coverage
+#   - coverage run manage.py test
+
+# after_success:
+#   - coveralls
+
+# before_deploy:
+#   - eval "$(ssh-agent -s)"
+#   - chmod 600 travis_key
+#   - ssh-add travis_key
+
+# deploy:
+#   provider: script
+#   script: bash deploy_ec2.sh
+#   on:
+#     branch: main
 language: python
 python:
-  - "3.10"
+  - "3.9"
 
-branches:
-  only:
-    - main
+# Run on Ubuntu
+dist: focal
 
+# Services (if you use a database)
+services:
+  - sqlite
+
+# Install dependencies
 install:
-  - pip install --upgrade pip
   - pip install -r requirements.txt
   - pip install black flake8 coverage coveralls
 
+# Run formatting, linting, and tests
 script:
-  # 1️⃣ code formatting chec
   - black --check .
-  # 2️⃣ linting check
   - flake8 .
-  # 3️⃣ run test suite + coverage
   - coverage run manage.py test
 
+# After tests, report coverage
 after_success:
   - coveralls
 
-before_deploy:
-  - eval "$(ssh-agent -s)"
-  - chmod 600 travis_key
-  - ssh-add travis_key
-
+# Deploy to EC2 if all tests pass
 deploy:
   provider: script
-  script: bash deploy_ec2.sh
+  script: bash scripts/deploy_ec2.sh
   on:
     branch: main
