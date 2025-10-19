@@ -12,7 +12,7 @@ install:
   - pip install black flake8 coverage coveralls
 
 script:
-  # 1️⃣ code formatting check
+  # 1️⃣ code formatting chec
   - black --check .
   # 2️⃣ linting check
   - flake8 .
